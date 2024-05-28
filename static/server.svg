@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="3172c710-7db6-421b-ac16-57cf95fc7144"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="04ee8cb4-b0af-42eb-bc4e-40d724c34fdc"  >
+</g>
+<g transform="matrix(0 0 0 0 0.02 0.01)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -0.5 -0.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(254,254,254); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-164, -145)" d="M -0.5 -0.5 C 109.167 -0.5 218.833 -0.5 328.5 -0.5 C 328.5 96.5 328.5 193.5 328.5 290.5 C 218.833 290.5 109.167 290.5 -0.5 290.5 C -0.5 193.5 -0.5 96.5 -0.5 -0.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 73.29 1.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(104,149,108); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-237.79, -147)" d="M 249.5 31.5 C 251.5 31.5 253.5 31.5 255.5 31.5 C 255.5 31.8333 255.5 32.1667 255.5 32.5 C 256.681 34.0672 258.347 34.9005 260.5 35 C 270.822 36.4269 281.155 37.7602 291.5 39 C 297.781 41.5746 304.281 43.0746 311 43.5 C 311.484 48.5866 309.984 52.9199 306.5 56.5 C 305.037 61.7769 302.537 66.4436 299 70.5 C 298.505 72.4727 298.338 74.4727 298.5 76.5 C 295.623 79.1403 293.29 82.307 291.5 86 C 290.393 89.7095 288.893 93.2095 287 96.5 C 286 97.1667 285 97.8333 284 98.5 C 281.993 102.647 280.826 106.98 280.5 111.5 C 280.5 112.167 280.167 112.5 279.5 112.5 C 275.773 116.936 272.773 121.936 270.5 127.5 C 267.833 129.5 265.5 131.833 263.5 134.5 C 262.349 138.423 261.515 142.423 261 146.5 C 258.063 150.374 256.229 154.707 255.5 159.5 C 254.5 159.5 253.5 159.5 252.5 159.5 C 252.908 162.599 251.741 164.933 249 166.5 C 245.314 174.086 242.147 181.753 239.5 189.5 C 234.31 201.213 228.643 212.547 222.5 223.5 C 221.178 223.33 220.011 223.663 219 224.5 C 214.763 231.409 211.43 238.743 209 246.5 C 207.915 247.293 206.748 247.96 205.5 248.5 C 204.461 252.105 203.795 255.772 203.5 259.5 C 203.573 261.027 202.906 262.027 201.5 262.5 C 200.098 260.125 198.765 257.791 197.5 255.5 C 197.849 252.955 197.016 250.955 195 249.5 C 194.503 247.19 194.337 244.857 194.5 242.5 C 193.5 242.5 192.5 242.5 191.5 242.5 C 191.715 240.821 191.048 239.821 189.5 239.5 C 189.732 235.543 188.899 231.876 187 228.5 C 185.933 226.308 184.433 224.642 182.5 223.5 C 182.167 223.5 181.833 223.5 181.5 223.5 C 181.784 221.585 181.451 219.919 180.5 218.5 C 180.125 214.093 178.458 210.426 175.5 207.5 C 171.872 198.187 168.206 188.854 164.5 179.5 C 178.826 148.848 193.159 118.181 207.5 87.5 C 209.167 84.8333 210.833 82.1667 212.5 79.5 C 213.822 79.67 214.989 79.3366 216 78.5 C 219.088 72.2391 221.588 65.7391 223.5 59 C 226.721 56.7851 228.721 53.7851 229.5 50 C 229.043 49.586 228.709 49.086 228.5 48.5 C 230.131 46.7801 231.297 44.7801 232 42.5 C 236.342 40.2212 238.175 36.5545 237.5 31.5 C 241.5 31.5 245.5 31.5 249.5 31.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 107 -111.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(228,245,228); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-271.5, -33.97)" d="M 255.5 32.5 C 255.5 32.1667 255.5 31.8333 255.5 31.5 C 260.179 31.3342 264.845 31.5008 269.5 32 C 275.547 33.5484 281.547 35.0484 287.5 36.5 C 276.863 34.9494 266.196 33.6161 255.5 32.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 121.5 -91)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,147,117); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-286, -54.5)" d="M 255.5 32.5 C 266.196 33.6161 276.863 34.9494 287.5 36.5 C 297.13 38.1208 306.796 40.1208 316.5 42.5 C 314.103 47.2031 311.77 51.8698 309.5 56.5 C 305.833 63.1667 302.167 69.8333 298.5 76.5 C 298.338 74.4727 298.505 72.4727 299 70.5 C 302.537 66.4436 305.037 61.7769 306.5 56.5 C 309.984 52.9199 311.484 48.5866 311 43.5 C 304.281 43.0746 297.781 41.5746 291.5 39 C 281.155 37.7602 270.822 36.4269 260.5 35 C 258.347 34.9005 256.681 34.0672 255.5 32.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 66.5 -90.81)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(113,148,116); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-231, -54.69)" d="M 249.5 31.5 C 245.5 31.5 241.5 31.5 237.5 31.5 C 238.175 36.5545 236.342 40.2212 232 42.5 C 231.297 44.7801 230.131 46.7801 228.5 48.5 C 228.709 49.086 229.043 49.586 229.5 50 C 228.721 53.7851 226.721 56.7851 223.5 59 C 221.588 65.7391 219.088 72.2391 216 78.5 C 214.989 79.3366 213.822 79.67 212.5 79.5 C 216.558 70.9895 220.225 62.3228 223.5 53.5 C 227.858 46.1522 231.858 38.4855 235.5 30.5 C 240.369 29.3634 245.035 29.6967 249.5 31.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -122.5 -85.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(189,124,125); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42, -60)" d="M 37.5 56.5 C 41.8156 57.5924 46.1489 58.5924 50.5 59.5 C 45.8075 59.4599 41.1408 59.1266 36.5 58.5 C 36.5 60.1667 36.5 61.8333 36.5 63.5 C 34.7073 61.5739 33.7073 59.2406 33.5 56.5 C 34.8333 56.5 36.1667 56.5 37.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -105 -85.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(252,239,236); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-59.5, -60)" d="M 37.5 56.5 C 44.2376 56.5186 50.9043 57.1853 57.5 58.5 C 61.1559 57.5505 64.4893 57.8839 67.5 59.5 C 68.1667 59.1667 68.8333 58.8333 69.5 58.5 C 73.0536 59.9789 76.7203 61.1455 80.5 62 C 81.056 62.3826 81.3893 62.8826 81.5 63.5 C 80.8333 63.5 80.1667 63.5 79.5 63.5 C 69.9099 61.6239 60.2432 60.2906 50.5 59.5 C 46.1489 58.5924 41.8156 57.5924 37.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -65.5 14.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(206,104,105); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-99, -160)" d="M 50.5 59.5 C 60.2432 60.2906 69.9099 61.6239 79.5 63.5 C 79.9371 65.0744 80.9371 66.2411 82.5 67 C 88.8333 67.3333 95.1667 67.6667 101.5 68 C 105 68.8333 107.167 71 108 74.5 C 109.333 75.1667 110.667 75.8333 112 76.5 C 113.12 81.3971 114.786 86.0638 117 90.5 C 120.833 95.1524 123.167 100.486 124 106.5 C 124.333 105.833 124.667 105.167 125 104.5 C 125.417 105.756 126.25 106.423 127.5 106.5 C 127.077 108.781 127.744 110.448 129.5 111.5 C 130.674 112.514 131.34 113.847 131.5 115.5 C 131.592 119.684 133.259 123.017 136.5 125.5 C 136.833 126.833 137.167 128.167 137.5 129.5 C 139.35 133.568 140.35 137.901 140.5 142.5 C 141.5 142.5 142.5 142.5 143.5 142.5 C 145.588 144.336 146.921 146.669 147.5 149.5 C 150.204 158.339 153.204 167.006 156.5 175.5 C 157.5 175.5 158.5 175.5 159.5 175.5 C 159.253 177.858 159.919 179.858 161.5 181.5 C 161.5 182.5 161.5 183.5 161.5 184.5 C 149.368 210.21 137.035 235.877 124.5 261.5 C 122.684 258.809 120.684 256.142 118.5 253.5 C 117.644 249.43 116.477 245.43 115 241.5 C 114.29 240.027 113.124 239.36 111.5 239.5 C 109.5 234.167 107.5 228.833 105.5 223.5 C 103.404 216.954 101.57 210.287 100 203.5 C 99.4115 201.137 97.9115 200.137 95.5 200.5 C 95.5 200.167 95.5 199.833 95.5 199.5 C 94.7532 196.413 93.4199 193.746 91.5 191.5 C 89.1938 186.215 86.8605 180.881 84.5 175.5 C 84.5999 170.961 82.9332 167.294 79.5 164.5 C 79.5321 161.924 78.8654 159.591 77.5 157.5 C 75.375 151.687 73.5417 145.687 72 139.5 C 69.4885 135.793 67.6551 131.793 66.5 127.5 C 65.5 127.5 64.5 127.5 63.5 127.5 C 64.0062 120.993 62.0062 115.66 57.5 111.5 C 55.658 104.795 53.8247 98.1282 52 91.5 C 51.0816 89.6243 49.5816 88.6243 47.5 88.5 C 46.0922 81.5497 43.7589 74.8831 40.5 68.5 C 40.0431 67.7025 39.3764 67.3691 38.5 67.5 C 37.3995 66.3951 36.7329 65.0618 36.5 63.5 C 36.5 61.8333 36.5 60.1667 36.5 58.5 C 41.1408 59.1266 45.8075 59.4599 50.5 59.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -69.5 -80)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(253,231,229); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-95, -65.5)" d="M 82.5 63.5 C 89.1777 63.7888 95.8444 64.2888 102.5 65 C 104.315 65.7568 105.981 66.5902 107.5 67.5 C 99.0068 66.3365 90.6735 65.0032 82.5 63.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 51 -75)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(237,248,237); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-215.5, -70.5)" d="M 223.5 53.5 C 220.225 62.3228 216.558 70.9895 212.5 79.5 C 210.833 82.1667 209.167 84.8333 207.5 87.5 C 210.731 75.1213 216.064 63.788 223.5 53.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 135 -69.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(239,250,240); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-299.5, -76)" d="M 309.5 56.5 C 309.45 61.0124 308.117 64.5124 305.5 67 C 305.833 67.3333 306.167 67.6667 306.5 68 C 301.937 73.2788 298.77 79.4454 297 86.5 C 293.983 89.2828 291.483 92.2828 289.5 95.5 C 292.307 89.081 295.307 82.7477 298.5 76.5 C 302.167 69.8333 305.833 63.1667 309.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -48 -64.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(243,217,216); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-116.5, -81)" d="M 113.5 76.5 C 114.733 79.2672 116.733 81.4339 119.5 83 C 118.748 83.6708 118.414 84.5041 118.5 85.5 C 115.595 83.244 113.928 80.244 113.5 76.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -121.5 -67.52)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(198,127,129); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43, -77.99)" d="M 38.5 67.5 C 39.3764 67.3691 40.0431 67.7025 40.5 68.5 C 43.7589 74.8831 46.0922 81.5497 47.5 88.5 C 43.1986 82.1533 40.1986 75.1533 38.5 67.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -61 -60.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(198,116,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-103.5, -85)" d="M 79.5 63.5 C 80.1667 63.5 80.8333 63.5 81.5 63.5 C 81.8333 63.5 82.1667 63.5 82.5 63.5 C 90.6735 65.0032 99.0068 66.3365 107.5 67.5 C 108.496 67.4142 109.329 67.7476 110 68.5 C 111.454 71.0711 112.62 73.7378 113.5 76.5 C 113.928 80.244 115.595 83.244 118.5 85.5 C 118.343 86.8734 118.51 88.2068 119 89.5 C 122.014 95.0318 124.847 100.699 127.5 106.5 C 126.25 106.423 125.417 105.756 125 104.5 C 124.667 105.167 124.333 105.833 124 106.5 C 123.167 100.486 120.833 95.1524 117 90.5 C 114.786 86.0638 113.12 81.3971 112 76.5 C 110.667 75.8333 109.333 75.1667 108 74.5 C 107.167 71 105 68.8333 101.5 68 C 95.1667 67.6667 88.8333 67.3333 82.5 67 C 80.9371 66.2411 79.9371 65.0744 79.5 63.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -112 -45.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,124,125); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-52.5, -100)" d="M 47.5 88.5 C 49.5816 88.6243 51.0816 89.6243 52 91.5 C 53.8247 98.1282 55.658 104.795 57.5 111.5 C 53.0375 104.487 49.7042 96.8208 47.5 88.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 125 -51.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(119,150,121); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-289.5, -94)" d="M 298.5 76.5 C 295.307 82.7477 292.307 89.081 289.5 95.5 C 286.5 100.833 283.5 106.167 280.5 111.5 C 280.826 106.98 281.993 102.647 284 98.5 C 285 97.8333 286 97.1667 287 96.5 C 288.893 93.2095 290.393 89.7095 291.5 86 C 293.29 82.307 295.623 79.1403 298.5 76.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -36.05 -36.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(194,150,152); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-128.44, -109)" d="M 127.5 106.5 C 128.931 107.78 129.598 109.447 129.5 111.5 C 127.744 110.448 127.077 108.781 127.5 106.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -30.5 -25)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(206,144,145); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-134, -120.5)" d="M 131.5 115.5 C 133.659 118.484 135.325 121.817 136.5 125.5 C 133.259 123.017 131.592 119.684 131.5 115.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -103.96 -26)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,127,130); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-60.54, -119.5)" d="M 57.5 111.5 C 62.0062 115.66 64.0062 120.993 63.5 127.5 C 60.4348 122.679 58.4348 117.346 57.5 111.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 103 -9.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(116,150,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-267.5, -136)" d="M 279.5 112.5 C 272.268 128.632 264.268 144.299 255.5 159.5 C 256.229 154.707 258.063 150.374 261 146.5 C 261.515 142.423 262.349 138.423 263.5 134.5 C 265.5 131.833 267.833 129.5 270.5 127.5 C 272.773 121.936 275.773 116.936 279.5 112.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -94 -3)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(199,121,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-70.5, -142.5)" d="M 63.5 127.5 C 64.5 127.5 65.5 127.5 66.5 127.5 C 67.6551 131.793 69.4885 135.793 72 139.5 C 73.5417 145.687 75.375 151.687 77.5 157.5 C 77.1667 157.5 76.8333 157.5 76.5 157.5 C 72.6541 147.31 68.3207 137.31 63.5 127.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -24 -9.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(201,126,127); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-140.5, -136)" d="M 137.5 129.5 C 140.829 133.161 142.829 137.494 143.5 142.5 C 142.5 142.5 141.5 142.5 140.5 142.5 C 140.35 137.901 139.35 133.568 137.5 129.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -11 17)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(205,139,140); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-153.5, -162.5)" d="M 147.5 149.5 C 152.043 157.92 156.043 166.586 159.5 175.5 C 158.5 175.5 157.5 175.5 156.5 175.5 C 153.204 167.006 150.204 158.339 147.5 149.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -86.53 15.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,185,187); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-77.97, -161)" d="M 76.5 157.5 C 76.8333 157.5 77.1667 157.5 77.5 157.5 C 78.8654 159.591 79.5321 161.924 79.5 164.5 C 77.1663 162.824 76.1663 160.491 76.5 157.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -82.5 24.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(209,142,143); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-82, -170)" d="M 79.5 164.5 C 82.9332 167.294 84.5999 170.961 84.5 175.5 C 82.0599 172.28 80.3933 168.613 79.5 164.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -3.52 33)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,139,143); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-160.97, -178.5)" d="M 159.5 175.5 C 160.492 177.456 161.492 179.456 162.5 181.5 C 162.167 181.5 161.833 181.5 161.5 181.5 C 159.919 179.858 159.253 177.858 159.5 175.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 83 29)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(121,151,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-247.5, -174.5)" d="M 255.5 159.5 C 250.672 169.825 245.339 179.825 239.5 189.5 C 242.147 181.753 245.314 174.086 249 166.5 C 251.741 164.933 252.908 162.599 252.5 159.5 C 253.5 159.5 254.5 159.5 255.5 159.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 4.5 48)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,134,101); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-169, -193.5)" d="M 164.5 179.5 C 168.206 188.854 171.872 198.187 175.5 207.5 C 174.025 205.993 172.691 204.327 171.5 202.5 C 171.655 199.284 170.655 196.617 168.5 194.5 C 167.9 193.1 166.9 192.1 165.5 191.5 C 165.417 187.824 164.417 184.491 162.5 181.5 C 163.167 180.833 163.833 180.167 164.5 179.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -1 41)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(157,95,83); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-163.5, -186.5)" d="M 161.5 181.5 C 161.833 181.5 162.167 181.5 162.5 181.5 C 164.417 184.491 165.417 187.824 165.5 191.5 C 163.428 189.65 162.095 187.317 161.5 184.5 C 161.5 183.5 161.5 182.5 161.5 181.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -71 50)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(197,131,130); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-93.5, -195.5)" d="M 91.5 191.5 C 93.4199 193.746 94.7532 196.413 95.5 199.5 C 94.8333 198.833 94.1667 198.167 93.5 197.5 C 92.2616 195.786 91.595 193.786 91.5 191.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -3 78.62)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(177,83,75); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-161.5, -224.12)" d="M 161.5 184.5 C 162.095 187.317 163.428 189.65 165.5 191.5 C 166.9 192.1 167.9 193.1 168.5 194.5 C 168.62 197.578 169.62 200.245 171.5 202.5 C 171.335 205.85 171.502 209.183 172 212.5 C 174.18 213.346 175.68 214.846 176.5 217 C 175.483 219.787 175.316 222.62 176 225.5 C 177.117 224.051 177.784 222.384 178 220.5 C 178.759 222.063 179.926 223.063 181.5 223.5 C 181.833 223.5 182.167 223.5 182.5 223.5 C 182.919 227.858 184.252 231.858 186.5 235.5 C 186.073 241.426 188.407 245.76 193.5 248.5 C 193.5 249.167 193.5 249.833 193.5 250.5 C 195.015 254.897 196.682 259.231 198.5 263.5 C 173.477 264.157 148.811 263.49 124.5 261.5 C 137.035 235.877 149.368 210.21 161.5 184.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 5.51 53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(147,106,86); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-170.01, -198.5)" d="M 168.5 194.5 C 170.655 196.617 171.655 199.284 171.5 202.5 C 169.62 200.245 168.62 197.578 168.5 194.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -68.51 58)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,220,221); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-96, -203.5)" d="M 93.5 197.5 C 94.1667 198.167 94.8333 198.833 95.5 199.5 C 95.5 199.833 95.5 200.167 95.5 200.5 C 96.3061 203.549 97.3061 206.549 98.5 209.5 C 95.0356 206.375 93.369 202.375 93.5 197.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.5 67.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,131,99); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-178, -213)" d="M 175.5 207.5 C 178.458 210.426 180.125 214.093 180.5 218.5 C 179.542 218.047 178.708 217.381 178 216.5 C 176.869 213.555 176.036 210.555 175.5 207.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -64.5 68)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(244,210,207); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-100, -213.5)" d="M 98.5 209.5 C 100.585 211.684 101.585 214.351 101.5 217.5 C 99.4152 215.316 98.4152 212.649 98.5 209.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -64 66.47)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,117,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-100.5, -211.96)" d="M 95.5 200.5 C 97.9115 200.137 99.4115 201.137 100 203.5 C 101.57 210.287 103.404 216.954 105.5 223.5 C 104.589 221.249 103.256 219.249 101.5 217.5 C 101.585 214.351 100.585 211.684 98.5 209.5 C 97.3061 206.549 96.3061 203.549 95.5 200.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 12.02 68.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(166,90,77); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-176.52, -214)" d="M 171.5 202.5 C 172.691 204.327 174.025 205.993 175.5 207.5 C 176.036 210.555 176.869 213.555 178 216.5 C 178.708 217.381 179.542 218.047 180.5 218.5 C 181.451 219.919 181.784 221.585 181.5 223.5 C 179.926 223.063 178.759 222.063 178 220.5 C 177.784 222.384 177.117 224.051 176 225.5 C 175.316 222.62 175.483 219.787 176.5 217 C 175.68 214.846 174.18 213.346 172 212.5 C 171.502 209.183 171.335 205.85 171.5 202.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -58 83)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,223,223); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-106.5, -228.5)" d="M 101.5 217.5 C 103.256 219.249 104.589 221.249 105.5 223.5 C 107.5 228.833 109.5 234.167 111.5 239.5 C 109.686 237.236 107.853 234.903 106 232.5 C 104.439 227.541 102.939 222.541 101.5 217.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 21.52 86)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,125,96); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-186.02, -231.5)" d="M 182.5 223.5 C 184.433 224.642 185.933 226.308 187 228.5 C 188.899 231.876 189.732 235.543 189.5 239.5 C 188.857 237.924 187.857 236.59 186.5 235.5 C 184.252 231.858 182.919 227.858 182.5 223.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 25.47 96.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(156,97,78); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-189.98, -242)" d="M 186.5 235.5 C 187.857 236.59 188.857 237.924 189.5 239.5 C 191.048 239.821 191.715 240.821 191.5 242.5 C 191.704 244.685 192.37 246.685 193.5 248.5 C 188.407 245.76 186.073 241.426 186.5 235.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -49.5 100.99)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,121,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-115, -246.49)" d="M 111.5 239.5 C 113.124 239.36 114.29 240.027 115 241.5 C 116.477 245.43 117.644 249.43 118.5 253.5 C 116.986 251.636 115.653 249.636 114.5 247.5 C 114.975 244.687 113.975 242.687 111.5 241.5 C 111.5 240.833 111.5 240.167 111.5 239.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -51.44 99)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,198,196); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-113.06, -244.5)" d="M 111.5 241.5 C 113.975 242.687 114.975 244.687 114.5 247.5 C 113.508 245.544 112.508 243.544 111.5 241.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 48.5 95.98)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(116,150,119); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-213, -241.48)" d="M 222.5 223.5 C 216.66 235.851 210.327 247.851 203.5 259.5 C 203.795 255.772 204.461 252.105 205.5 248.5 C 206.748 247.96 207.915 247.293 209 246.5 C 211.43 238.743 214.763 231.409 219 224.5 C 220.011 223.663 221.178 223.33 222.5 223.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 30.04 103.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,133,100); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-194.54, -249)" d="M 191.5 242.5 C 192.5 242.5 193.5 242.5 194.5 242.5 C 194.337 244.857 194.503 247.19 195 249.5 C 197.016 250.955 197.849 252.955 197.5 255.5 C 196.889 253.289 195.556 251.622 193.5 250.5 C 193.5 249.833 193.5 249.167 193.5 248.5 C 192.37 246.685 191.704 244.685 191.5 242.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 33 112)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(147,107,86); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-197.5, -257.5)" d="M 193.5 250.5 C 195.556 251.622 196.889 253.289 197.5 255.5 C 198.765 257.791 200.098 260.125 201.5 262.5 C 201.5 263.167 201.5 263.833 201.5 264.5 C 200.5 264.5 199.5 264.5 198.5 264.5 C 198.5 264.167 198.5 263.833 198.5 263.5 C 196.682 259.231 195.015 254.897 193.5 250.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -6.5 111.01)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,210,206); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-158, -256.51)" d="M 114.5 247.5 C 115.653 249.636 116.986 251.636 118.5 253.5 C 119.406 257.149 120.74 260.649 122.5 264 C 147.831 264.5 173.164 264.667 198.5 264.5 C 199.5 264.5 200.5 264.5 201.5 264.5 C 175.003 265.664 148.336 265.83 121.5 265 C 117.526 259.847 115.193 254.014 114.5 247.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -6 113.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(160,96,89); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-158.5, -259.03)" d="M 118.5 253.5 C 120.684 256.142 122.684 258.809 124.5 261.5 C 148.811 263.49 173.477 264.157 198.5 263.5 C 198.5 263.833 198.5 264.167 198.5 264.5 C 173.164 264.667 147.831 264.5 122.5 264 C 120.74 260.649 119.406 257.149 118.5 253.5 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0.02 0.01)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -0.5 -0.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(254,254,254); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-164, -145)" d="M -0.5 -0.5 C 109.167 -0.5 218.833 -0.5 328.5 -0.5 C 328.5 96.5 328.5 193.5 328.5 290.5 C 218.833 290.5 109.167 290.5 -0.5 290.5 C -0.5 193.5 -0.5 96.5 -0.5 -0.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 73.29 1.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(104,149,108); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-237.79, -147)" d="M 249.5 31.5 C 251.5 31.5 253.5 31.5 255.5 31.5 C 255.5 31.8333 255.5 32.1667 255.5 32.5 C 256.681 34.0672 258.347 34.9005 260.5 35 C 270.822 36.4269 281.155 37.7602 291.5 39 C 297.781 41.5746 304.281 43.0746 311 43.5 C 311.484 48.5866 309.984 52.9199 306.5 56.5 C 305.037 61.7769 302.537 66.4436 299 70.5 C 298.505 72.4727 298.338 74.4727 298.5 76.5 C 295.623 79.1403 293.29 82.307 291.5 86 C 290.393 89.7095 288.893 93.2095 287 96.5 C 286 97.1667 285 97.8333 284 98.5 C 281.993 102.647 280.826 106.98 280.5 111.5 C 280.5 112.167 280.167 112.5 279.5 112.5 C 275.773 116.936 272.773 121.936 270.5 127.5 C 267.833 129.5 265.5 131.833 263.5 134.5 C 262.349 138.423 261.515 142.423 261 146.5 C 258.063 150.374 256.229 154.707 255.5 159.5 C 254.5 159.5 253.5 159.5 252.5 159.5 C 252.908 162.599 251.741 164.933 249 166.5 C 245.314 174.086 242.147 181.753 239.5 189.5 C 234.31 201.213 228.643 212.547 222.5 223.5 C 221.178 223.33 220.011 223.663 219 224.5 C 214.763 231.409 211.43 238.743 209 246.5 C 207.915 247.293 206.748 247.96 205.5 248.5 C 204.461 252.105 203.795 255.772 203.5 259.5 C 203.573 261.027 202.906 262.027 201.5 262.5 C 200.098 260.125 198.765 257.791 197.5 255.5 C 197.849 252.955 197.016 250.955 195 249.5 C 194.503 247.19 194.337 244.857 194.5 242.5 C 193.5 242.5 192.5 242.5 191.5 242.5 C 191.715 240.821 191.048 239.821 189.5 239.5 C 189.732 235.543 188.899 231.876 187 228.5 C 185.933 226.308 184.433 224.642 182.5 223.5 C 182.167 223.5 181.833 223.5 181.5 223.5 C 181.784 221.585 181.451 219.919 180.5 218.5 C 180.125 214.093 178.458 210.426 175.5 207.5 C 171.872 198.187 168.206 188.854 164.5 179.5 C 178.826 148.848 193.159 118.181 207.5 87.5 C 209.167 84.8333 210.833 82.1667 212.5 79.5 C 213.822 79.67 214.989 79.3366 216 78.5 C 219.088 72.2391 221.588 65.7391 223.5 59 C 226.721 56.7851 228.721 53.7851 229.5 50 C 229.043 49.586 228.709 49.086 228.5 48.5 C 230.131 46.7801 231.297 44.7801 232 42.5 C 236.342 40.2212 238.175 36.5545 237.5 31.5 C 241.5 31.5 245.5 31.5 249.5 31.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 107 -111.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(228,245,228); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-271.5, -33.97)" d="M 255.5 32.5 C 255.5 32.1667 255.5 31.8333 255.5 31.5 C 260.179 31.3342 264.845 31.5008 269.5 32 C 275.547 33.5484 281.547 35.0484 287.5 36.5 C 276.863 34.9494 266.196 33.6161 255.5 32.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 121.5 -91)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,147,117); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-286, -54.5)" d="M 255.5 32.5 C 266.196 33.6161 276.863 34.9494 287.5 36.5 C 297.13 38.1208 306.796 40.1208 316.5 42.5 C 314.103 47.2031 311.77 51.8698 309.5 56.5 C 305.833 63.1667 302.167 69.8333 298.5 76.5 C 298.338 74.4727 298.505 72.4727 299 70.5 C 302.537 66.4436 305.037 61.7769 306.5 56.5 C 309.984 52.9199 311.484 48.5866 311 43.5 C 304.281 43.0746 297.781 41.5746 291.5 39 C 281.155 37.7602 270.822 36.4269 260.5 35 C 258.347 34.9005 256.681 34.0672 255.5 32.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 66.5 -90.81)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(113,148,116); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-231, -54.69)" d="M 249.5 31.5 C 245.5 31.5 241.5 31.5 237.5 31.5 C 238.175 36.5545 236.342 40.2212 232 42.5 C 231.297 44.7801 230.131 46.7801 228.5 48.5 C 228.709 49.086 229.043 49.586 229.5 50 C 228.721 53.7851 226.721 56.7851 223.5 59 C 221.588 65.7391 219.088 72.2391 216 78.5 C 214.989 79.3366 213.822 79.67 212.5 79.5 C 216.558 70.9895 220.225 62.3228 223.5 53.5 C 227.858 46.1522 231.858 38.4855 235.5 30.5 C 240.369 29.3634 245.035 29.6967 249.5 31.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -122.5 -85.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(189,124,125); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42, -60)" d="M 37.5 56.5 C 41.8156 57.5924 46.1489 58.5924 50.5 59.5 C 45.8075 59.4599 41.1408 59.1266 36.5 58.5 C 36.5 60.1667 36.5 61.8333 36.5 63.5 C 34.7073 61.5739 33.7073 59.2406 33.5 56.5 C 34.8333 56.5 36.1667 56.5 37.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -105 -85.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(252,239,236); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-59.5, -60)" d="M 37.5 56.5 C 44.2376 56.5186 50.9043 57.1853 57.5 58.5 C 61.1559 57.5505 64.4893 57.8839 67.5 59.5 C 68.1667 59.1667 68.8333 58.8333 69.5 58.5 C 73.0536 59.9789 76.7203 61.1455 80.5 62 C 81.056 62.3826 81.3893 62.8826 81.5 63.5 C 80.8333 63.5 80.1667 63.5 79.5 63.5 C 69.9099 61.6239 60.2432 60.2906 50.5 59.5 C 46.1489 58.5924 41.8156 57.5924 37.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -65.5 14.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(206,104,105); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-99, -160)" d="M 50.5 59.5 C 60.2432 60.2906 69.9099 61.6239 79.5 63.5 C 79.9371 65.0744 80.9371 66.2411 82.5 67 C 88.8333 67.3333 95.1667 67.6667 101.5 68 C 105 68.8333 107.167 71 108 74.5 C 109.333 75.1667 110.667 75.8333 112 76.5 C 113.12 81.3971 114.786 86.0638 117 90.5 C 120.833 95.1524 123.167 100.486 124 106.5 C 124.333 105.833 124.667 105.167 125 104.5 C 125.417 105.756 126.25 106.423 127.5 106.5 C 127.077 108.781 127.744 110.448 129.5 111.5 C 130.674 112.514 131.34 113.847 131.5 115.5 C 131.592 119.684 133.259 123.017 136.5 125.5 C 136.833 126.833 137.167 128.167 137.5 129.5 C 139.35 133.568 140.35 137.901 140.5 142.5 C 141.5 142.5 142.5 142.5 143.5 142.5 C 145.588 144.336 146.921 146.669 147.5 149.5 C 150.204 158.339 153.204 167.006 156.5 175.5 C 157.5 175.5 158.5 175.5 159.5 175.5 C 159.253 177.858 159.919 179.858 161.5 181.5 C 161.5 182.5 161.5 183.5 161.5 184.5 C 149.368 210.21 137.035 235.877 124.5 261.5 C 122.684 258.809 120.684 256.142 118.5 253.5 C 117.644 249.43 116.477 245.43 115 241.5 C 114.29 240.027 113.124 239.36 111.5 239.5 C 109.5 234.167 107.5 228.833 105.5 223.5 C 103.404 216.954 101.57 210.287 100 203.5 C 99.4115 201.137 97.9115 200.137 95.5 200.5 C 95.5 200.167 95.5 199.833 95.5 199.5 C 94.7532 196.413 93.4199 193.746 91.5 191.5 C 89.1938 186.215 86.8605 180.881 84.5 175.5 C 84.5999 170.961 82.9332 167.294 79.5 164.5 C 79.5321 161.924 78.8654 159.591 77.5 157.5 C 75.375 151.687 73.5417 145.687 72 139.5 C 69.4885 135.793 67.6551 131.793 66.5 127.5 C 65.5 127.5 64.5 127.5 63.5 127.5 C 64.0062 120.993 62.0062 115.66 57.5 111.5 C 55.658 104.795 53.8247 98.1282 52 91.5 C 51.0816 89.6243 49.5816 88.6243 47.5 88.5 C 46.0922 81.5497 43.7589 74.8831 40.5 68.5 C 40.0431 67.7025 39.3764 67.3691 38.5 67.5 C 37.3995 66.3951 36.7329 65.0618 36.5 63.5 C 36.5 61.8333 36.5 60.1667 36.5 58.5 C 41.1408 59.1266 45.8075 59.4599 50.5 59.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -69.5 -80)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(253,231,229); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-95, -65.5)" d="M 82.5 63.5 C 89.1777 63.7888 95.8444 64.2888 102.5 65 C 104.315 65.7568 105.981 66.5902 107.5 67.5 C 99.0068 66.3365 90.6735 65.0032 82.5 63.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 51 -75)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(237,248,237); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-215.5, -70.5)" d="M 223.5 53.5 C 220.225 62.3228 216.558 70.9895 212.5 79.5 C 210.833 82.1667 209.167 84.8333 207.5 87.5 C 210.731 75.1213 216.064 63.788 223.5 53.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 135 -69.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(239,250,240); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-299.5, -76)" d="M 309.5 56.5 C 309.45 61.0124 308.117 64.5124 305.5 67 C 305.833 67.3333 306.167 67.6667 306.5 68 C 301.937 73.2788 298.77 79.4454 297 86.5 C 293.983 89.2828 291.483 92.2828 289.5 95.5 C 292.307 89.081 295.307 82.7477 298.5 76.5 C 302.167 69.8333 305.833 63.1667 309.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -48 -64.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(243,217,216); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-116.5, -81)" d="M 113.5 76.5 C 114.733 79.2672 116.733 81.4339 119.5 83 C 118.748 83.6708 118.414 84.5041 118.5 85.5 C 115.595 83.244 113.928 80.244 113.5 76.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -121.5 -67.52)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(198,127,129); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43, -77.99)" d="M 38.5 67.5 C 39.3764 67.3691 40.0431 67.7025 40.5 68.5 C 43.7589 74.8831 46.0922 81.5497 47.5 88.5 C 43.1986 82.1533 40.1986 75.1533 38.5 67.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -61 -60.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(198,116,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-103.5, -85)" d="M 79.5 63.5 C 80.1667 63.5 80.8333 63.5 81.5 63.5 C 81.8333 63.5 82.1667 63.5 82.5 63.5 C 90.6735 65.0032 99.0068 66.3365 107.5 67.5 C 108.496 67.4142 109.329 67.7476 110 68.5 C 111.454 71.0711 112.62 73.7378 113.5 76.5 C 113.928 80.244 115.595 83.244 118.5 85.5 C 118.343 86.8734 118.51 88.2068 119 89.5 C 122.014 95.0318 124.847 100.699 127.5 106.5 C 126.25 106.423 125.417 105.756 125 104.5 C 124.667 105.167 124.333 105.833 124 106.5 C 123.167 100.486 120.833 95.1524 117 90.5 C 114.786 86.0638 113.12 81.3971 112 76.5 C 110.667 75.8333 109.333 75.1667 108 74.5 C 107.167 71 105 68.8333 101.5 68 C 95.1667 67.6667 88.8333 67.3333 82.5 67 C 80.9371 66.2411 79.9371 65.0744 79.5 63.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -112 -45.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,124,125); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-52.5, -100)" d="M 47.5 88.5 C 49.5816 88.6243 51.0816 89.6243 52 91.5 C 53.8247 98.1282 55.658 104.795 57.5 111.5 C 53.0375 104.487 49.7042 96.8208 47.5 88.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 125 -51.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(119,150,121); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-289.5, -94)" d="M 298.5 76.5 C 295.307 82.7477 292.307 89.081 289.5 95.5 C 286.5 100.833 283.5 106.167 280.5 111.5 C 280.826 106.98 281.993 102.647 284 98.5 C 285 97.8333 286 97.1667 287 96.5 C 288.893 93.2095 290.393 89.7095 291.5 86 C 293.29 82.307 295.623 79.1403 298.5 76.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -36.05 -36.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(194,150,152); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-128.44, -109)" d="M 127.5 106.5 C 128.931 107.78 129.598 109.447 129.5 111.5 C 127.744 110.448 127.077 108.781 127.5 106.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -30.5 -25)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(206,144,145); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-134, -120.5)" d="M 131.5 115.5 C 133.659 118.484 135.325 121.817 136.5 125.5 C 133.259 123.017 131.592 119.684 131.5 115.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -103.96 -26)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,127,130); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-60.54, -119.5)" d="M 57.5 111.5 C 62.0062 115.66 64.0062 120.993 63.5 127.5 C 60.4348 122.679 58.4348 117.346 57.5 111.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 103 -9.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(116,150,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-267.5, -136)" d="M 279.5 112.5 C 272.268 128.632 264.268 144.299 255.5 159.5 C 256.229 154.707 258.063 150.374 261 146.5 C 261.515 142.423 262.349 138.423 263.5 134.5 C 265.5 131.833 267.833 129.5 270.5 127.5 C 272.773 121.936 275.773 116.936 279.5 112.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -94 -3)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(199,121,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-70.5, -142.5)" d="M 63.5 127.5 C 64.5 127.5 65.5 127.5 66.5 127.5 C 67.6551 131.793 69.4885 135.793 72 139.5 C 73.5417 145.687 75.375 151.687 77.5 157.5 C 77.1667 157.5 76.8333 157.5 76.5 157.5 C 72.6541 147.31 68.3207 137.31 63.5 127.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -24 -9.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(201,126,127); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-140.5, -136)" d="M 137.5 129.5 C 140.829 133.161 142.829 137.494 143.5 142.5 C 142.5 142.5 141.5 142.5 140.5 142.5 C 140.35 137.901 139.35 133.568 137.5 129.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -11 17)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(205,139,140); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-153.5, -162.5)" d="M 147.5 149.5 C 152.043 157.92 156.043 166.586 159.5 175.5 C 158.5 175.5 157.5 175.5 156.5 175.5 C 153.204 167.006 150.204 158.339 147.5 149.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -86.53 15.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,185,187); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-77.97, -161)" d="M 76.5 157.5 C 76.8333 157.5 77.1667 157.5 77.5 157.5 C 78.8654 159.591 79.5321 161.924 79.5 164.5 C 77.1663 162.824 76.1663 160.491 76.5 157.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -82.5 24.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(209,142,143); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-82, -170)" d="M 79.5 164.5 C 82.9332 167.294 84.5999 170.961 84.5 175.5 C 82.0599 172.28 80.3933 168.613 79.5 164.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -3.52 33)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,139,143); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-160.97, -178.5)" d="M 159.5 175.5 C 160.492 177.456 161.492 179.456 162.5 181.5 C 162.167 181.5 161.833 181.5 161.5 181.5 C 159.919 179.858 159.253 177.858 159.5 175.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 83 29)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(121,151,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-247.5, -174.5)" d="M 255.5 159.5 C 250.672 169.825 245.339 179.825 239.5 189.5 C 242.147 181.753 245.314 174.086 249 166.5 C 251.741 164.933 252.908 162.599 252.5 159.5 C 253.5 159.5 254.5 159.5 255.5 159.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 4.5 48)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,134,101); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-169, -193.5)" d="M 164.5 179.5 C 168.206 188.854 171.872 198.187 175.5 207.5 C 174.025 205.993 172.691 204.327 171.5 202.5 C 171.655 199.284 170.655 196.617 168.5 194.5 C 167.9 193.1 166.9 192.1 165.5 191.5 C 165.417 187.824 164.417 184.491 162.5 181.5 C 163.167 180.833 163.833 180.167 164.5 179.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -1 41)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(157,95,83); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-163.5, -186.5)" d="M 161.5 181.5 C 161.833 181.5 162.167 181.5 162.5 181.5 C 164.417 184.491 165.417 187.824 165.5 191.5 C 163.428 189.65 162.095 187.317 161.5 184.5 C 161.5 183.5 161.5 182.5 161.5 181.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -71 50)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(197,131,130); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-93.5, -195.5)" d="M 91.5 191.5 C 93.4199 193.746 94.7532 196.413 95.5 199.5 C 94.8333 198.833 94.1667 198.167 93.5 197.5 C 92.2616 195.786 91.595 193.786 91.5 191.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -3 78.62)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(177,83,75); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-161.5, -224.12)" d="M 161.5 184.5 C 162.095 187.317 163.428 189.65 165.5 191.5 C 166.9 192.1 167.9 193.1 168.5 194.5 C 168.62 197.578 169.62 200.245 171.5 202.5 C 171.335 205.85 171.502 209.183 172 212.5 C 174.18 213.346 175.68 214.846 176.5 217 C 175.483 219.787 175.316 222.62 176 225.5 C 177.117 224.051 177.784 222.384 178 220.5 C 178.759 222.063 179.926 223.063 181.5 223.5 C 181.833 223.5 182.167 223.5 182.5 223.5 C 182.919 227.858 184.252 231.858 186.5 235.5 C 186.073 241.426 188.407 245.76 193.5 248.5 C 193.5 249.167 193.5 249.833 193.5 250.5 C 195.015 254.897 196.682 259.231 198.5 263.5 C 173.477 264.157 148.811 263.49 124.5 261.5 C 137.035 235.877 149.368 210.21 161.5 184.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 5.51 53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(147,106,86); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-170.01, -198.5)" d="M 168.5 194.5 C 170.655 196.617 171.655 199.284 171.5 202.5 C 169.62 200.245 168.62 197.578 168.5 194.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -68.51 58)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,220,221); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-96, -203.5)" d="M 93.5 197.5 C 94.1667 198.167 94.8333 198.833 95.5 199.5 C 95.5 199.833 95.5 200.167 95.5 200.5 C 96.3061 203.549 97.3061 206.549 98.5 209.5 C 95.0356 206.375 93.369 202.375 93.5 197.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.5 67.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,131,99); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-178, -213)" d="M 175.5 207.5 C 178.458 210.426 180.125 214.093 180.5 218.5 C 179.542 218.047 178.708 217.381 178 216.5 C 176.869 213.555 176.036 210.555 175.5 207.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -64.5 68)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(244,210,207); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-100, -213.5)" d="M 98.5 209.5 C 100.585 211.684 101.585 214.351 101.5 217.5 C 99.4152 215.316 98.4152 212.649 98.5 209.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -64 66.47)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,117,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-100.5, -211.96)" d="M 95.5 200.5 C 97.9115 200.137 99.4115 201.137 100 203.5 C 101.57 210.287 103.404 216.954 105.5 223.5 C 104.589 221.249 103.256 219.249 101.5 217.5 C 101.585 214.351 100.585 211.684 98.5 209.5 C 97.3061 206.549 96.3061 203.549 95.5 200.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 12.02 68.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(166,90,77); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-176.52, -214)" d="M 171.5 202.5 C 172.691 204.327 174.025 205.993 175.5 207.5 C 176.036 210.555 176.869 213.555 178 216.5 C 178.708 217.381 179.542 218.047 180.5 218.5 C 181.451 219.919 181.784 221.585 181.5 223.5 C 179.926 223.063 178.759 222.063 178 220.5 C 177.784 222.384 177.117 224.051 176 225.5 C 175.316 222.62 175.483 219.787 176.5 217 C 175.68 214.846 174.18 213.346 172 212.5 C 171.502 209.183 171.335 205.85 171.5 202.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -58 83)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,223,223); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-106.5, -228.5)" d="M 101.5 217.5 C 103.256 219.249 104.589 221.249 105.5 223.5 C 107.5 228.833 109.5 234.167 111.5 239.5 C 109.686 237.236 107.853 234.903 106 232.5 C 104.439 227.541 102.939 222.541 101.5 217.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 21.52 86)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,125,96); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-186.02, -231.5)" d="M 182.5 223.5 C 184.433 224.642 185.933 226.308 187 228.5 C 188.899 231.876 189.732 235.543 189.5 239.5 C 188.857 237.924 187.857 236.59 186.5 235.5 C 184.252 231.858 182.919 227.858 182.5 223.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 25.47 96.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(156,97,78); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-189.98, -242)" d="M 186.5 235.5 C 187.857 236.59 188.857 237.924 189.5 239.5 C 191.048 239.821 191.715 240.821 191.5 242.5 C 191.704 244.685 192.37 246.685 193.5 248.5 C 188.407 245.76 186.073 241.426 186.5 235.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -49.5 100.99)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,121,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-115, -246.49)" d="M 111.5 239.5 C 113.124 239.36 114.29 240.027 115 241.5 C 116.477 245.43 117.644 249.43 118.5 253.5 C 116.986 251.636 115.653 249.636 114.5 247.5 C 114.975 244.687 113.975 242.687 111.5 241.5 C 111.5 240.833 111.5 240.167 111.5 239.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -51.44 99)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,198,196); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-113.06, -244.5)" d="M 111.5 241.5 C 113.975 242.687 114.975 244.687 114.5 247.5 C 113.508 245.544 112.508 243.544 111.5 241.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 48.5 95.98)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(116,150,119); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-213, -241.48)" d="M 222.5 223.5 C 216.66 235.851 210.327 247.851 203.5 259.5 C 203.795 255.772 204.461 252.105 205.5 248.5 C 206.748 247.96 207.915 247.293 209 246.5 C 211.43 238.743 214.763 231.409 219 224.5 C 220.011 223.663 221.178 223.33 222.5 223.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 30.04 103.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,133,100); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-194.54, -249)" d="M 191.5 242.5 C 192.5 242.5 193.5 242.5 194.5 242.5 C 194.337 244.857 194.503 247.19 195 249.5 C 197.016 250.955 197.849 252.955 197.5 255.5 C 196.889 253.289 195.556 251.622 193.5 250.5 C 193.5 249.833 193.5 249.167 193.5 248.5 C 192.37 246.685 191.704 244.685 191.5 242.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 33 112)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(147,107,86); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-197.5, -257.5)" d="M 193.5 250.5 C 195.556 251.622 196.889 253.289 197.5 255.5 C 198.765 257.791 200.098 260.125 201.5 262.5 C 201.5 263.167 201.5 263.833 201.5 264.5 C 200.5 264.5 199.5 264.5 198.5 264.5 C 198.5 264.167 198.5 263.833 198.5 263.5 C 196.682 259.231 195.015 254.897 193.5 250.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -6.5 111.01)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,210,206); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-158, -256.51)" d="M 114.5 247.5 C 115.653 249.636 116.986 251.636 118.5 253.5 C 119.406 257.149 120.74 260.649 122.5 264 C 147.831 264.5 173.164 264.667 198.5 264.5 C 199.5 264.5 200.5 264.5 201.5 264.5 C 175.003 265.664 148.336 265.83 121.5 265 C 117.526 259.847 115.193 254.014 114.5 247.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -6 113.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(160,96,89); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-158.5, -259.03)" d="M 118.5 253.5 C 120.684 256.142 122.684 258.809 124.5 261.5 C 148.811 263.49 173.477 264.157 198.5 263.5 C 198.5 263.833 198.5 264.167 198.5 264.5 C 173.164 264.667 147.831 264.5 122.5 264 C 120.74 260.649 119.406 257.149 118.5 253.5 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0.02 0.01)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -0.5 -0.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(254,254,254); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-164, -145)" d="M -0.5 -0.5 C 109.167 -0.5 218.833 -0.5 328.5 -0.5 C 328.5 96.5 328.5 193.5 328.5 290.5 C 218.833 290.5 109.167 290.5 -0.5 290.5 C -0.5 193.5 -0.5 96.5 -0.5 -0.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 73.29 1.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(104,149,108); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-237.79, -147)" d="M 249.5 31.5 C 251.5 31.5 253.5 31.5 255.5 31.5 C 255.5 31.8333 255.5 32.1667 255.5 32.5 C 256.681 34.0672 258.347 34.9005 260.5 35 C 270.822 36.4269 281.155 37.7602 291.5 39 C 297.781 41.5746 304.281 43.0746 311 43.5 C 311.484 48.5866 309.984 52.9199 306.5 56.5 C 305.037 61.7769 302.537 66.4436 299 70.5 C 298.505 72.4727 298.338 74.4727 298.5 76.5 C 295.623 79.1403 293.29 82.307 291.5 86 C 290.393 89.7095 288.893 93.2095 287 96.5 C 286 97.1667 285 97.8333 284 98.5 C 281.993 102.647 280.826 106.98 280.5 111.5 C 280.5 112.167 280.167 112.5 279.5 112.5 C 275.773 116.936 272.773 121.936 270.5 127.5 C 267.833 129.5 265.5 131.833 263.5 134.5 C 262.349 138.423 261.515 142.423 261 146.5 C 258.063 150.374 256.229 154.707 255.5 159.5 C 254.5 159.5 253.5 159.5 252.5 159.5 C 252.908 162.599 251.741 164.933 249 166.5 C 245.314 174.086 242.147 181.753 239.5 189.5 C 234.31 201.213 228.643 212.547 222.5 223.5 C 221.178 223.33 220.011 223.663 219 224.5 C 214.763 231.409 211.43 238.743 209 246.5 C 207.915 247.293 206.748 247.96 205.5 248.5 C 204.461 252.105 203.795 255.772 203.5 259.5 C 203.573 261.027 202.906 262.027 201.5 262.5 C 200.098 260.125 198.765 257.791 197.5 255.5 C 197.849 252.955 197.016 250.955 195 249.5 C 194.503 247.19 194.337 244.857 194.5 242.5 C 193.5 242.5 192.5 242.5 191.5 242.5 C 191.715 240.821 191.048 239.821 189.5 239.5 C 189.732 235.543 188.899 231.876 187 228.5 C 185.933 226.308 184.433 224.642 182.5 223.5 C 182.167 223.5 181.833 223.5 181.5 223.5 C 181.784 221.585 181.451 219.919 180.5 218.5 C 180.125 214.093 178.458 210.426 175.5 207.5 C 171.872 198.187 168.206 188.854 164.5 179.5 C 178.826 148.848 193.159 118.181 207.5 87.5 C 209.167 84.8333 210.833 82.1667 212.5 79.5 C 213.822 79.67 214.989 79.3366 216 78.5 C 219.088 72.2391 221.588 65.7391 223.5 59 C 226.721 56.7851 228.721 53.7851 229.5 50 C 229.043 49.586 228.709 49.086 228.5 48.5 C 230.131 46.7801 231.297 44.7801 232 42.5 C 236.342 40.2212 238.175 36.5545 237.5 31.5 C 241.5 31.5 245.5 31.5 249.5 31.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 107 -111.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(228,245,228); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-271.5, -33.97)" d="M 255.5 32.5 C 255.5 32.1667 255.5 31.8333 255.5 31.5 C 260.179 31.3342 264.845 31.5008 269.5 32 C 275.547 33.5484 281.547 35.0484 287.5 36.5 C 276.863 34.9494 266.196 33.6161 255.5 32.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 121.5 -91)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,147,117); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-286, -54.5)" d="M 255.5 32.5 C 266.196 33.6161 276.863 34.9494 287.5 36.5 C 297.13 38.1208 306.796 40.1208 316.5 42.5 C 314.103 47.2031 311.77 51.8698 309.5 56.5 C 305.833 63.1667 302.167 69.8333 298.5 76.5 C 298.338 74.4727 298.505 72.4727 299 70.5 C 302.537 66.4436 305.037 61.7769 306.5 56.5 C 309.984 52.9199 311.484 48.5866 311 43.5 C 304.281 43.0746 297.781 41.5746 291.5 39 C 281.155 37.7602 270.822 36.4269 260.5 35 C 258.347 34.9005 256.681 34.0672 255.5 32.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 66.5 -90.81)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(113,148,116); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-231, -54.69)" d="M 249.5 31.5 C 245.5 31.5 241.5 31.5 237.5 31.5 C 238.175 36.5545 236.342 40.2212 232 42.5 C 231.297 44.7801 230.131 46.7801 228.5 48.5 C 228.709 49.086 229.043 49.586 229.5 50 C 228.721 53.7851 226.721 56.7851 223.5 59 C 221.588 65.7391 219.088 72.2391 216 78.5 C 214.989 79.3366 213.822 79.67 212.5 79.5 C 216.558 70.9895 220.225 62.3228 223.5 53.5 C 227.858 46.1522 231.858 38.4855 235.5 30.5 C 240.369 29.3634 245.035 29.6967 249.5 31.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -122.5 -85.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(189,124,125); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42, -60)" d="M 37.5 56.5 C 41.8156 57.5924 46.1489 58.5924 50.5 59.5 C 45.8075 59.4599 41.1408 59.1266 36.5 58.5 C 36.5 60.1667 36.5 61.8333 36.5 63.5 C 34.7073 61.5739 33.7073 59.2406 33.5 56.5 C 34.8333 56.5 36.1667 56.5 37.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -105 -85.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(252,239,236); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-59.5, -60)" d="M 37.5 56.5 C 44.2376 56.5186 50.9043 57.1853 57.5 58.5 C 61.1559 57.5505 64.4893 57.8839 67.5 59.5 C 68.1667 59.1667 68.8333 58.8333 69.5 58.5 C 73.0536 59.9789 76.7203 61.1455 80.5 62 C 81.056 62.3826 81.3893 62.8826 81.5 63.5 C 80.8333 63.5 80.1667 63.5 79.5 63.5 C 69.9099 61.6239 60.2432 60.2906 50.5 59.5 C 46.1489 58.5924 41.8156 57.5924 37.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -65.5 14.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(206,104,105); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-99, -160)" d="M 50.5 59.5 C 60.2432 60.2906 69.9099 61.6239 79.5 63.5 C 79.9371 65.0744 80.9371 66.2411 82.5 67 C 88.8333 67.3333 95.1667 67.6667 101.5 68 C 105 68.8333 107.167 71 108 74.5 C 109.333 75.1667 110.667 75.8333 112 76.5 C 113.12 81.3971 114.786 86.0638 117 90.5 C 120.833 95.1524 123.167 100.486 124 106.5 C 124.333 105.833 124.667 105.167 125 104.5 C 125.417 105.756 126.25 106.423 127.5 106.5 C 127.077 108.781 127.744 110.448 129.5 111.5 C 130.674 112.514 131.34 113.847 131.5 115.5 C 131.592 119.684 133.259 123.017 136.5 125.5 C 136.833 126.833 137.167 128.167 137.5 129.5 C 139.35 133.568 140.35 137.901 140.5 142.5 C 141.5 142.5 142.5 142.5 143.5 142.5 C 145.588 144.336 146.921 146.669 147.5 149.5 C 150.204 158.339 153.204 167.006 156.5 175.5 C 157.5 175.5 158.5 175.5 159.5 175.5 C 159.253 177.858 159.919 179.858 161.5 181.5 C 161.5 182.5 161.5 183.5 161.5 184.5 C 149.368 210.21 137.035 235.877 124.5 261.5 C 122.684 258.809 120.684 256.142 118.5 253.5 C 117.644 249.43 116.477 245.43 115 241.5 C 114.29 240.027 113.124 239.36 111.5 239.5 C 109.5 234.167 107.5 228.833 105.5 223.5 C 103.404 216.954 101.57 210.287 100 203.5 C 99.4115 201.137 97.9115 200.137 95.5 200.5 C 95.5 200.167 95.5 199.833 95.5 199.5 C 94.7532 196.413 93.4199 193.746 91.5 191.5 C 89.1938 186.215 86.8605 180.881 84.5 175.5 C 84.5999 170.961 82.9332 167.294 79.5 164.5 C 79.5321 161.924 78.8654 159.591 77.5 157.5 C 75.375 151.687 73.5417 145.687 72 139.5 C 69.4885 135.793 67.6551 131.793 66.5 127.5 C 65.5 127.5 64.5 127.5 63.5 127.5 C 64.0062 120.993 62.0062 115.66 57.5 111.5 C 55.658 104.795 53.8247 98.1282 52 91.5 C 51.0816 89.6243 49.5816 88.6243 47.5 88.5 C 46.0922 81.5497 43.7589 74.8831 40.5 68.5 C 40.0431 67.7025 39.3764 67.3691 38.5 67.5 C 37.3995 66.3951 36.7329 65.0618 36.5 63.5 C 36.5 61.8333 36.5 60.1667 36.5 58.5 C 41.1408 59.1266 45.8075 59.4599 50.5 59.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -69.5 -80)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(253,231,229); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-95, -65.5)" d="M 82.5 63.5 C 89.1777 63.7888 95.8444 64.2888 102.5 65 C 104.315 65.7568 105.981 66.5902 107.5 67.5 C 99.0068 66.3365 90.6735 65.0032 82.5 63.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 51 -75)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(237,248,237); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-215.5, -70.5)" d="M 223.5 53.5 C 220.225 62.3228 216.558 70.9895 212.5 79.5 C 210.833 82.1667 209.167 84.8333 207.5 87.5 C 210.731 75.1213 216.064 63.788 223.5 53.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 135 -69.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(239,250,240); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-299.5, -76)" d="M 309.5 56.5 C 309.45 61.0124 308.117 64.5124 305.5 67 C 305.833 67.3333 306.167 67.6667 306.5 68 C 301.937 73.2788 298.77 79.4454 297 86.5 C 293.983 89.2828 291.483 92.2828 289.5 95.5 C 292.307 89.081 295.307 82.7477 298.5 76.5 C 302.167 69.8333 305.833 63.1667 309.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -48 -64.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(243,217,216); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-116.5, -81)" d="M 113.5 76.5 C 114.733 79.2672 116.733 81.4339 119.5 83 C 118.748 83.6708 118.414 84.5041 118.5 85.5 C 115.595 83.244 113.928 80.244 113.5 76.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -121.5 -67.52)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(198,127,129); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43, -77.99)" d="M 38.5 67.5 C 39.3764 67.3691 40.0431 67.7025 40.5 68.5 C 43.7589 74.8831 46.0922 81.5497 47.5 88.5 C 43.1986 82.1533 40.1986 75.1533 38.5 67.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -61 -60.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(198,116,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-103.5, -85)" d="M 79.5 63.5 C 80.1667 63.5 80.8333 63.5 81.5 63.5 C 81.8333 63.5 82.1667 63.5 82.5 63.5 C 90.6735 65.0032 99.0068 66.3365 107.5 67.5 C 108.496 67.4142 109.329 67.7476 110 68.5 C 111.454 71.0711 112.62 73.7378 113.5 76.5 C 113.928 80.244 115.595 83.244 118.5 85.5 C 118.343 86.8734 118.51 88.2068 119 89.5 C 122.014 95.0318 124.847 100.699 127.5 106.5 C 126.25 106.423 125.417 105.756 125 104.5 C 124.667 105.167 124.333 105.833 124 106.5 C 123.167 100.486 120.833 95.1524 117 90.5 C 114.786 86.0638 113.12 81.3971 112 76.5 C 110.667 75.8333 109.333 75.1667 108 74.5 C 107.167 71 105 68.8333 101.5 68 C 95.1667 67.6667 88.8333 67.3333 82.5 67 C 80.9371 66.2411 79.9371 65.0744 79.5 63.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -112 -45.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,124,125); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-52.5, -100)" d="M 47.5 88.5 C 49.5816 88.6243 51.0816 89.6243 52 91.5 C 53.8247 98.1282 55.658 104.795 57.5 111.5 C 53.0375 104.487 49.7042 96.8208 47.5 88.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 125 -51.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(119,150,121); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-289.5, -94)" d="M 298.5 76.5 C 295.307 82.7477 292.307 89.081 289.5 95.5 C 286.5 100.833 283.5 106.167 280.5 111.5 C 280.826 106.98 281.993 102.647 284 98.5 C 285 97.8333 286 97.1667 287 96.5 C 288.893 93.2095 290.393 89.7095 291.5 86 C 293.29 82.307 295.623 79.1403 298.5 76.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -36.05 -36.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(194,150,152); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-128.44, -109)" d="M 127.5 106.5 C 128.931 107.78 129.598 109.447 129.5 111.5 C 127.744 110.448 127.077 108.781 127.5 106.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -30.5 -25)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(206,144,145); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-134, -120.5)" d="M 131.5 115.5 C 133.659 118.484 135.325 121.817 136.5 125.5 C 133.259 123.017 131.592 119.684 131.5 115.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -103.96 -26)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,127,130); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-60.54, -119.5)" d="M 57.5 111.5 C 62.0062 115.66 64.0062 120.993 63.5 127.5 C 60.4348 122.679 58.4348 117.346 57.5 111.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 103 -9.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(116,150,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-267.5, -136)" d="M 279.5 112.5 C 272.268 128.632 264.268 144.299 255.5 159.5 C 256.229 154.707 258.063 150.374 261 146.5 C 261.515 142.423 262.349 138.423 263.5 134.5 C 265.5 131.833 267.833 129.5 270.5 127.5 C 272.773 121.936 275.773 116.936 279.5 112.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -94 -3)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(199,121,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-70.5, -142.5)" d="M 63.5 127.5 C 64.5 127.5 65.5 127.5 66.5 127.5 C 67.6551 131.793 69.4885 135.793 72 139.5 C 73.5417 145.687 75.375 151.687 77.5 157.5 C 77.1667 157.5 76.8333 157.5 76.5 157.5 C 72.6541 147.31 68.3207 137.31 63.5 127.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -24 -9.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(201,126,127); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-140.5, -136)" d="M 137.5 129.5 C 140.829 133.161 142.829 137.494 143.5 142.5 C 142.5 142.5 141.5 142.5 140.5 142.5 C 140.35 137.901 139.35 133.568 137.5 129.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -11 17)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(205,139,140); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-153.5, -162.5)" d="M 147.5 149.5 C 152.043 157.92 156.043 166.586 159.5 175.5 C 158.5 175.5 157.5 175.5 156.5 175.5 C 153.204 167.006 150.204 158.339 147.5 149.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -86.53 15.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,185,187); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-77.97, -161)" d="M 76.5 157.5 C 76.8333 157.5 77.1667 157.5 77.5 157.5 C 78.8654 159.591 79.5321 161.924 79.5 164.5 C 77.1663 162.824 76.1663 160.491 76.5 157.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -82.5 24.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(209,142,143); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-82, -170)" d="M 79.5 164.5 C 82.9332 167.294 84.5999 170.961 84.5 175.5 C 82.0599 172.28 80.3933 168.613 79.5 164.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -3.52 33)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,139,143); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-160.97, -178.5)" d="M 159.5 175.5 C 160.492 177.456 161.492 179.456 162.5 181.5 C 162.167 181.5 161.833 181.5 161.5 181.5 C 159.919 179.858 159.253 177.858 159.5 175.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 83 29)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(121,151,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-247.5, -174.5)" d="M 255.5 159.5 C 250.672 169.825 245.339 179.825 239.5 189.5 C 242.147 181.753 245.314 174.086 249 166.5 C 251.741 164.933 252.908 162.599 252.5 159.5 C 253.5 159.5 254.5 159.5 255.5 159.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 4.5 48)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,134,101); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-169, -193.5)" d="M 164.5 179.5 C 168.206 188.854 171.872 198.187 175.5 207.5 C 174.025 205.993 172.691 204.327 171.5 202.5 C 171.655 199.284 170.655 196.617 168.5 194.5 C 167.9 193.1 166.9 192.1 165.5 191.5 C 165.417 187.824 164.417 184.491 162.5 181.5 C 163.167 180.833 163.833 180.167 164.5 179.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -1 41)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(157,95,83); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-163.5, -186.5)" d="M 161.5 181.5 C 161.833 181.5 162.167 181.5 162.5 181.5 C 164.417 184.491 165.417 187.824 165.5 191.5 C 163.428 189.65 162.095 187.317 161.5 184.5 C 161.5 183.5 161.5 182.5 161.5 181.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -71 50)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(197,131,130); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-93.5, -195.5)" d="M 91.5 191.5 C 93.4199 193.746 94.7532 196.413 95.5 199.5 C 94.8333 198.833 94.1667 198.167 93.5 197.5 C 92.2616 195.786 91.595 193.786 91.5 191.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -3 78.62)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(177,83,75); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-161.5, -224.12)" d="M 161.5 184.5 C 162.095 187.317 163.428 189.65 165.5 191.5 C 166.9 192.1 167.9 193.1 168.5 194.5 C 168.62 197.578 169.62 200.245 171.5 202.5 C 171.335 205.85 171.502 209.183 172 212.5 C 174.18 213.346 175.68 214.846 176.5 217 C 175.483 219.787 175.316 222.62 176 225.5 C 177.117 224.051 177.784 222.384 178 220.5 C 178.759 222.063 179.926 223.063 181.5 223.5 C 181.833 223.5 182.167 223.5 182.5 223.5 C 182.919 227.858 184.252 231.858 186.5 235.5 C 186.073 241.426 188.407 245.76 193.5 248.5 C 193.5 249.167 193.5 249.833 193.5 250.5 C 195.015 254.897 196.682 259.231 198.5 263.5 C 173.477 264.157 148.811 263.49 124.5 261.5 C 137.035 235.877 149.368 210.21 161.5 184.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 5.51 53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(147,106,86); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-170.01, -198.5)" d="M 168.5 194.5 C 170.655 196.617 171.655 199.284 171.5 202.5 C 169.62 200.245 168.62 197.578 168.5 194.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -68.51 58)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,220,221); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-96, -203.5)" d="M 93.5 197.5 C 94.1667 198.167 94.8333 198.833 95.5 199.5 C 95.5 199.833 95.5 200.167 95.5 200.5 C 96.3061 203.549 97.3061 206.549 98.5 209.5 C 95.0356 206.375 93.369 202.375 93.5 197.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.5 67.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,131,99); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-178, -213)" d="M 175.5 207.5 C 178.458 210.426 180.125 214.093 180.5 218.5 C 179.542 218.047 178.708 217.381 178 216.5 C 176.869 213.555 176.036 210.555 175.5 207.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -64.5 68)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(244,210,207); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-100, -213.5)" d="M 98.5 209.5 C 100.585 211.684 101.585 214.351 101.5 217.5 C 99.4152 215.316 98.4152 212.649 98.5 209.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -64 66.47)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,117,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-100.5, -211.96)" d="M 95.5 200.5 C 97.9115 200.137 99.4115 201.137 100 203.5 C 101.57 210.287 103.404 216.954 105.5 223.5 C 104.589 221.249 103.256 219.249 101.5 217.5 C 101.585 214.351 100.585 211.684 98.5 209.5 C 97.3061 206.549 96.3061 203.549 95.5 200.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 12.02 68.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(166,90,77); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-176.52, -214)" d="M 171.5 202.5 C 172.691 204.327 174.025 205.993 175.5 207.5 C 176.036 210.555 176.869 213.555 178 216.5 C 178.708 217.381 179.542 218.047 180.5 218.5 C 181.451 219.919 181.784 221.585 181.5 223.5 C 179.926 223.063 178.759 222.063 178 220.5 C 177.784 222.384 177.117 224.051 176 225.5 C 175.316 222.62 175.483 219.787 176.5 217 C 175.68 214.846 174.18 213.346 172 212.5 C 171.502 209.183 171.335 205.85 171.5 202.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -58 83)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,223,223); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-106.5, -228.5)" d="M 101.5 217.5 C 103.256 219.249 104.589 221.249 105.5 223.5 C 107.5 228.833 109.5 234.167 111.5 239.5 C 109.686 237.236 107.853 234.903 106 232.5 C 104.439 227.541 102.939 222.541 101.5 217.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 21.52 86)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,125,96); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-186.02, -231.5)" d="M 182.5 223.5 C 184.433 224.642 185.933 226.308 187 228.5 C 188.899 231.876 189.732 235.543 189.5 239.5 C 188.857 237.924 187.857 236.59 186.5 235.5 C 184.252 231.858 182.919 227.858 182.5 223.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 25.47 96.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(156,97,78); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-189.98, -242)" d="M 186.5 235.5 C 187.857 236.59 188.857 237.924 189.5 239.5 C 191.048 239.821 191.715 240.821 191.5 242.5 C 191.704 244.685 192.37 246.685 193.5 248.5 C 188.407 245.76 186.073 241.426 186.5 235.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -49.5 100.99)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,121,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-115, -246.49)" d="M 111.5 239.5 C 113.124 239.36 114.29 240.027 115 241.5 C 116.477 245.43 117.644 249.43 118.5 253.5 C 116.986 251.636 115.653 249.636 114.5 247.5 C 114.975 244.687 113.975 242.687 111.5 241.5 C 111.5 240.833 111.5 240.167 111.5 239.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -51.44 99)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,198,196); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-113.06, -244.5)" d="M 111.5 241.5 C 113.975 242.687 114.975 244.687 114.5 247.5 C 113.508 245.544 112.508 243.544 111.5 241.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 48.5 95.98)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(116,150,119); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-213, -241.48)" d="M 222.5 223.5 C 216.66 235.851 210.327 247.851 203.5 259.5 C 203.795 255.772 204.461 252.105 205.5 248.5 C 206.748 247.96 207.915 247.293 209 246.5 C 211.43 238.743 214.763 231.409 219 224.5 C 220.011 223.663 221.178 223.33 222.5 223.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 30.04 103.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,133,100); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-194.54, -249)" d="M 191.5 242.5 C 192.5 242.5 193.5 242.5 194.5 242.5 C 194.337 244.857 194.503 247.19 195 249.5 C 197.016 250.955 197.849 252.955 197.5 255.5 C 196.889 253.289 195.556 251.622 193.5 250.5 C 193.5 249.833 193.5 249.167 193.5 248.5 C 192.37 246.685 191.704 244.685 191.5 242.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 33 112)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(147,107,86); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-197.5, -257.5)" d="M 193.5 250.5 C 195.556 251.622 196.889 253.289 197.5 255.5 C 198.765 257.791 200.098 260.125 201.5 262.5 C 201.5 263.167 201.5 263.833 201.5 264.5 C 200.5 264.5 199.5 264.5 198.5 264.5 C 198.5 264.167 198.5 263.833 198.5 263.5 C 196.682 259.231 195.015 254.897 193.5 250.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -6.5 111.01)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,210,206); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-158, -256.51)" d="M 114.5 247.5 C 115.653 249.636 116.986 251.636 118.5 253.5 C 119.406 257.149 120.74 260.649 122.5 264 C 147.831 264.5 173.164 264.667 198.5 264.5 C 199.5 264.5 200.5 264.5 201.5 264.5 C 175.003 265.664 148.336 265.83 121.5 265 C 117.526 259.847 115.193 254.014 114.5 247.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -6 113.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(160,96,89); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-158.5, -259.03)" d="M 118.5 253.5 C 120.684 256.142 122.684 258.809 124.5 261.5 C 148.811 263.49 173.477 264.157 198.5 263.5 C 198.5 263.833 198.5 264.167 198.5 264.5 C 173.164 264.667 147.831 264.5 122.5 264 C 120.74 260.649 119.406 257.149 118.5 253.5 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0.02 0.01)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -0.5 -0.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(254,254,254); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-164, -145)" d="M -0.5 -0.5 C 109.167 -0.5 218.833 -0.5 328.5 -0.5 C 328.5 96.5 328.5 193.5 328.5 290.5 C 218.833 290.5 109.167 290.5 -0.5 290.5 C -0.5 193.5 -0.5 96.5 -0.5 -0.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 73.29 1.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(104,149,108); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-237.79, -147)" d="M 249.5 31.5 C 251.5 31.5 253.5 31.5 255.5 31.5 C 255.5 31.8333 255.5 32.1667 255.5 32.5 C 256.681 34.0672 258.347 34.9005 260.5 35 C 270.822 36.4269 281.155 37.7602 291.5 39 C 297.781 41.5746 304.281 43.0746 311 43.5 C 311.484 48.5866 309.984 52.9199 306.5 56.5 C 305.037 61.7769 302.537 66.4436 299 70.5 C 298.505 72.4727 298.338 74.4727 298.5 76.5 C 295.623 79.1403 293.29 82.307 291.5 86 C 290.393 89.7095 288.893 93.2095 287 96.5 C 286 97.1667 285 97.8333 284 98.5 C 281.993 102.647 280.826 106.98 280.5 111.5 C 280.5 112.167 280.167 112.5 279.5 112.5 C 275.773 116.936 272.773 121.936 270.5 127.5 C 267.833 129.5 265.5 131.833 263.5 134.5 C 262.349 138.423 261.515 142.423 261 146.5 C 258.063 150.374 256.229 154.707 255.5 159.5 C 254.5 159.5 253.5 159.5 252.5 159.5 C 252.908 162.599 251.741 164.933 249 166.5 C 245.314 174.086 242.147 181.753 239.5 189.5 C 234.31 201.213 228.643 212.547 222.5 223.5 C 221.178 223.33 220.011 223.663 219 224.5 C 214.763 231.409 211.43 238.743 209 246.5 C 207.915 247.293 206.748 247.96 205.5 248.5 C 204.461 252.105 203.795 255.772 203.5 259.5 C 203.573 261.027 202.906 262.027 201.5 262.5 C 200.098 260.125 198.765 257.791 197.5 255.5 C 197.849 252.955 197.016 250.955 195 249.5 C 194.503 247.19 194.337 244.857 194.5 242.5 C 193.5 242.5 192.5 242.5 191.5 242.5 C 191.715 240.821 191.048 239.821 189.5 239.5 C 189.732 235.543 188.899 231.876 187 228.5 C 185.933 226.308 184.433 224.642 182.5 223.5 C 182.167 223.5 181.833 223.5 181.5 223.5 C 181.784 221.585 181.451 219.919 180.5 218.5 C 180.125 214.093 178.458 210.426 175.5 207.5 C 171.872 198.187 168.206 188.854 164.5 179.5 C 178.826 148.848 193.159 118.181 207.5 87.5 C 209.167 84.8333 210.833 82.1667 212.5 79.5 C 213.822 79.67 214.989 79.3366 216 78.5 C 219.088 72.2391 221.588 65.7391 223.5 59 C 226.721 56.7851 228.721 53.7851 229.5 50 C 229.043 49.586 228.709 49.086 228.5 48.5 C 230.131 46.7801 231.297 44.7801 232 42.5 C 236.342 40.2212 238.175 36.5545 237.5 31.5 C 241.5 31.5 245.5 31.5 249.5 31.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 107 -111.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(228,245,228); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-271.5, -33.97)" d="M 255.5 32.5 C 255.5 32.1667 255.5 31.8333 255.5 31.5 C 260.179 31.3342 264.845 31.5008 269.5 32 C 275.547 33.5484 281.547 35.0484 287.5 36.5 C 276.863 34.9494 266.196 33.6161 255.5 32.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 121.5 -91)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,147,117); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-286, -54.5)" d="M 255.5 32.5 C 266.196 33.6161 276.863 34.9494 287.5 36.5 C 297.13 38.1208 306.796 40.1208 316.5 42.5 C 314.103 47.2031 311.77 51.8698 309.5 56.5 C 305.833 63.1667 302.167 69.8333 298.5 76.5 C 298.338 74.4727 298.505 72.4727 299 70.5 C 302.537 66.4436 305.037 61.7769 306.5 56.5 C 309.984 52.9199 311.484 48.5866 311 43.5 C 304.281 43.0746 297.781 41.5746 291.5 39 C 281.155 37.7602 270.822 36.4269 260.5 35 C 258.347 34.9005 256.681 34.0672 255.5 32.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 66.5 -90.81)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(113,148,116); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-231, -54.69)" d="M 249.5 31.5 C 245.5 31.5 241.5 31.5 237.5 31.5 C 238.175 36.5545 236.342 40.2212 232 42.5 C 231.297 44.7801 230.131 46.7801 228.5 48.5 C 228.709 49.086 229.043 49.586 229.5 50 C 228.721 53.7851 226.721 56.7851 223.5 59 C 221.588 65.7391 219.088 72.2391 216 78.5 C 214.989 79.3366 213.822 79.67 212.5 79.5 C 216.558 70.9895 220.225 62.3228 223.5 53.5 C 227.858 46.1522 231.858 38.4855 235.5 30.5 C 240.369 29.3634 245.035 29.6967 249.5 31.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -122.5 -85.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(189,124,125); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42, -60)" d="M 37.5 56.5 C 41.8156 57.5924 46.1489 58.5924 50.5 59.5 C 45.8075 59.4599 41.1408 59.1266 36.5 58.5 C 36.5 60.1667 36.5 61.8333 36.5 63.5 C 34.7073 61.5739 33.7073 59.2406 33.5 56.5 C 34.8333 56.5 36.1667 56.5 37.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -105 -85.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(252,239,236); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-59.5, -60)" d="M 37.5 56.5 C 44.2376 56.5186 50.9043 57.1853 57.5 58.5 C 61.1559 57.5505 64.4893 57.8839 67.5 59.5 C 68.1667 59.1667 68.8333 58.8333 69.5 58.5 C 73.0536 59.9789 76.7203 61.1455 80.5 62 C 81.056 62.3826 81.3893 62.8826 81.5 63.5 C 80.8333 63.5 80.1667 63.5 79.5 63.5 C 69.9099 61.6239 60.2432 60.2906 50.5 59.5 C 46.1489 58.5924 41.8156 57.5924 37.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -65.5 14.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(206,104,105); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-99, -160)" d="M 50.5 59.5 C 60.2432 60.2906 69.9099 61.6239 79.5 63.5 C 79.9371 65.0744 80.9371 66.2411 82.5 67 C 88.8333 67.3333 95.1667 67.6667 101.5 68 C 105 68.8333 107.167 71 108 74.5 C 109.333 75.1667 110.667 75.8333 112 76.5 C 113.12 81.3971 114.786 86.0638 117 90.5 C 120.833 95.1524 123.167 100.486 124 106.5 C 124.333 105.833 124.667 105.167 125 104.5 C 125.417 105.756 126.25 106.423 127.5 106.5 C 127.077 108.781 127.744 110.448 129.5 111.5 C 130.674 112.514 131.34 113.847 131.5 115.5 C 131.592 119.684 133.259 123.017 136.5 125.5 C 136.833 126.833 137.167 128.167 137.5 129.5 C 139.35 133.568 140.35 137.901 140.5 142.5 C 141.5 142.5 142.5 142.5 143.5 142.5 C 145.588 144.336 146.921 146.669 147.5 149.5 C 150.204 158.339 153.204 167.006 156.5 175.5 C 157.5 175.5 158.5 175.5 159.5 175.5 C 159.253 177.858 159.919 179.858 161.5 181.5 C 161.5 182.5 161.5 183.5 161.5 184.5 C 149.368 210.21 137.035 235.877 124.5 261.5 C 122.684 258.809 120.684 256.142 118.5 253.5 C 117.644 249.43 116.477 245.43 115 241.5 C 114.29 240.027 113.124 239.36 111.5 239.5 C 109.5 234.167 107.5 228.833 105.5 223.5 C 103.404 216.954 101.57 210.287 100 203.5 C 99.4115 201.137 97.9115 200.137 95.5 200.5 C 95.5 200.167 95.5 199.833 95.5 199.5 C 94.7532 196.413 93.4199 193.746 91.5 191.5 C 89.1938 186.215 86.8605 180.881 84.5 175.5 C 84.5999 170.961 82.9332 167.294 79.5 164.5 C 79.5321 161.924 78.8654 159.591 77.5 157.5 C 75.375 151.687 73.5417 145.687 72 139.5 C 69.4885 135.793 67.6551 131.793 66.5 127.5 C 65.5 127.5 64.5 127.5 63.5 127.5 C 64.0062 120.993 62.0062 115.66 57.5 111.5 C 55.658 104.795 53.8247 98.1282 52 91.5 C 51.0816 89.6243 49.5816 88.6243 47.5 88.5 C 46.0922 81.5497 43.7589 74.8831 40.5 68.5 C 40.0431 67.7025 39.3764 67.3691 38.5 67.5 C 37.3995 66.3951 36.7329 65.0618 36.5 63.5 C 36.5 61.8333 36.5 60.1667 36.5 58.5 C 41.1408 59.1266 45.8075 59.4599 50.5 59.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -69.5 -80)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(253,231,229); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-95, -65.5)" d="M 82.5 63.5 C 89.1777 63.7888 95.8444 64.2888 102.5 65 C 104.315 65.7568 105.981 66.5902 107.5 67.5 C 99.0068 66.3365 90.6735 65.0032 82.5 63.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 51 -75)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(237,248,237); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-215.5, -70.5)" d="M 223.5 53.5 C 220.225 62.3228 216.558 70.9895 212.5 79.5 C 210.833 82.1667 209.167 84.8333 207.5 87.5 C 210.731 75.1213 216.064 63.788 223.5 53.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 135 -69.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(239,250,240); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-299.5, -76)" d="M 309.5 56.5 C 309.45 61.0124 308.117 64.5124 305.5 67 C 305.833 67.3333 306.167 67.6667 306.5 68 C 301.937 73.2788 298.77 79.4454 297 86.5 C 293.983 89.2828 291.483 92.2828 289.5 95.5 C 292.307 89.081 295.307 82.7477 298.5 76.5 C 302.167 69.8333 305.833 63.1667 309.5 56.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -48 -64.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(243,217,216); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-116.5, -81)" d="M 113.5 76.5 C 114.733 79.2672 116.733 81.4339 119.5 83 C 118.748 83.6708 118.414 84.5041 118.5 85.5 C 115.595 83.244 113.928 80.244 113.5 76.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -121.5 -67.52)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(198,127,129); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43, -77.99)" d="M 38.5 67.5 C 39.3764 67.3691 40.0431 67.7025 40.5 68.5 C 43.7589 74.8831 46.0922 81.5497 47.5 88.5 C 43.1986 82.1533 40.1986 75.1533 38.5 67.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -61 -60.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(198,116,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-103.5, -85)" d="M 79.5 63.5 C 80.1667 63.5 80.8333 63.5 81.5 63.5 C 81.8333 63.5 82.1667 63.5 82.5 63.5 C 90.6735 65.0032 99.0068 66.3365 107.5 67.5 C 108.496 67.4142 109.329 67.7476 110 68.5 C 111.454 71.0711 112.62 73.7378 113.5 76.5 C 113.928 80.244 115.595 83.244 118.5 85.5 C 118.343 86.8734 118.51 88.2068 119 89.5 C 122.014 95.0318 124.847 100.699 127.5 106.5 C 126.25 106.423 125.417 105.756 125 104.5 C 124.667 105.167 124.333 105.833 124 106.5 C 123.167 100.486 120.833 95.1524 117 90.5 C 114.786 86.0638 113.12 81.3971 112 76.5 C 110.667 75.8333 109.333 75.1667 108 74.5 C 107.167 71 105 68.8333 101.5 68 C 95.1667 67.6667 88.8333 67.3333 82.5 67 C 80.9371 66.2411 79.9371 65.0744 79.5 63.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -112 -45.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,124,125); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-52.5, -100)" d="M 47.5 88.5 C 49.5816 88.6243 51.0816 89.6243 52 91.5 C 53.8247 98.1282 55.658 104.795 57.5 111.5 C 53.0375 104.487 49.7042 96.8208 47.5 88.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 125 -51.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(119,150,121); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-289.5, -94)" d="M 298.5 76.5 C 295.307 82.7477 292.307 89.081 289.5 95.5 C 286.5 100.833 283.5 106.167 280.5 111.5 C 280.826 106.98 281.993 102.647 284 98.5 C 285 97.8333 286 97.1667 287 96.5 C 288.893 93.2095 290.393 89.7095 291.5 86 C 293.29 82.307 295.623 79.1403 298.5 76.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -36.05 -36.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(194,150,152); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-128.44, -109)" d="M 127.5 106.5 C 128.931 107.78 129.598 109.447 129.5 111.5 C 127.744 110.448 127.077 108.781 127.5 106.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -30.5 -25)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(206,144,145); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-134, -120.5)" d="M 131.5 115.5 C 133.659 118.484 135.325 121.817 136.5 125.5 C 133.259 123.017 131.592 119.684 131.5 115.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -103.96 -26)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,127,130); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-60.54, -119.5)" d="M 57.5 111.5 C 62.0062 115.66 64.0062 120.993 63.5 127.5 C 60.4348 122.679 58.4348 117.346 57.5 111.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 103 -9.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(116,150,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-267.5, -136)" d="M 279.5 112.5 C 272.268 128.632 264.268 144.299 255.5 159.5 C 256.229 154.707 258.063 150.374 261 146.5 C 261.515 142.423 262.349 138.423 263.5 134.5 C 265.5 131.833 267.833 129.5 270.5 127.5 C 272.773 121.936 275.773 116.936 279.5 112.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -94 -3)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(199,121,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-70.5, -142.5)" d="M 63.5 127.5 C 64.5 127.5 65.5 127.5 66.5 127.5 C 67.6551 131.793 69.4885 135.793 72 139.5 C 73.5417 145.687 75.375 151.687 77.5 157.5 C 77.1667 157.5 76.8333 157.5 76.5 157.5 C 72.6541 147.31 68.3207 137.31 63.5 127.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -24 -9.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(201,126,127); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-140.5, -136)" d="M 137.5 129.5 C 140.829 133.161 142.829 137.494 143.5 142.5 C 142.5 142.5 141.5 142.5 140.5 142.5 C 140.35 137.901 139.35 133.568 137.5 129.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -11 17)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(205,139,140); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-153.5, -162.5)" d="M 147.5 149.5 C 152.043 157.92 156.043 166.586 159.5 175.5 C 158.5 175.5 157.5 175.5 156.5 175.5 C 153.204 167.006 150.204 158.339 147.5 149.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -86.53 15.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,185,187); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-77.97, -161)" d="M 76.5 157.5 C 76.8333 157.5 77.1667 157.5 77.5 157.5 C 78.8654 159.591 79.5321 161.924 79.5 164.5 C 77.1663 162.824 76.1663 160.491 76.5 157.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -82.5 24.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(209,142,143); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-82, -170)" d="M 79.5 164.5 C 82.9332 167.294 84.5999 170.961 84.5 175.5 C 82.0599 172.28 80.3933 168.613 79.5 164.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -3.52 33)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,139,143); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-160.97, -178.5)" d="M 159.5 175.5 C 160.492 177.456 161.492 179.456 162.5 181.5 C 162.167 181.5 161.833 181.5 161.5 181.5 C 159.919 179.858 159.253 177.858 159.5 175.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 83 29)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(121,151,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-247.5, -174.5)" d="M 255.5 159.5 C 250.672 169.825 245.339 179.825 239.5 189.5 C 242.147 181.753 245.314 174.086 249 166.5 C 251.741 164.933 252.908 162.599 252.5 159.5 C 253.5 159.5 254.5 159.5 255.5 159.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 4.5 48)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,134,101); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-169, -193.5)" d="M 164.5 179.5 C 168.206 188.854 171.872 198.187 175.5 207.5 C 174.025 205.993 172.691 204.327 171.5 202.5 C 171.655 199.284 170.655 196.617 168.5 194.5 C 167.9 193.1 166.9 192.1 165.5 191.5 C 165.417 187.824 164.417 184.491 162.5 181.5 C 163.167 180.833 163.833 180.167 164.5 179.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -1 41)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(157,95,83); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-163.5, -186.5)" d="M 161.5 181.5 C 161.833 181.5 162.167 181.5 162.5 181.5 C 164.417 184.491 165.417 187.824 165.5 191.5 C 163.428 189.65 162.095 187.317 161.5 184.5 C 161.5 183.5 161.5 182.5 161.5 181.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -71 50)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(197,131,130); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-93.5, -195.5)" d="M 91.5 191.5 C 93.4199 193.746 94.7532 196.413 95.5 199.5 C 94.8333 198.833 94.1667 198.167 93.5 197.5 C 92.2616 195.786 91.595 193.786 91.5 191.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -3 78.62)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(177,83,75); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-161.5, -224.12)" d="M 161.5 184.5 C 162.095 187.317 163.428 189.65 165.5 191.5 C 166.9 192.1 167.9 193.1 168.5 194.5 C 168.62 197.578 169.62 200.245 171.5 202.5 C 171.335 205.85 171.502 209.183 172 212.5 C 174.18 213.346 175.68 214.846 176.5 217 C 175.483 219.787 175.316 222.62 176 225.5 C 177.117 224.051 177.784 222.384 178 220.5 C 178.759 222.063 179.926 223.063 181.5 223.5 C 181.833 223.5 182.167 223.5 182.5 223.5 C 182.919 227.858 184.252 231.858 186.5 235.5 C 186.073 241.426 188.407 245.76 193.5 248.5 C 193.5 249.167 193.5 249.833 193.5 250.5 C 195.015 254.897 196.682 259.231 198.5 263.5 C 173.477 264.157 148.811 263.49 124.5 261.5 C 137.035 235.877 149.368 210.21 161.5 184.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 5.51 53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(147,106,86); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-170.01, -198.5)" d="M 168.5 194.5 C 170.655 196.617 171.655 199.284 171.5 202.5 C 169.62 200.245 168.62 197.578 168.5 194.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -68.51 58)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,220,221); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-96, -203.5)" d="M 93.5 197.5 C 94.1667 198.167 94.8333 198.833 95.5 199.5 C 95.5 199.833 95.5 200.167 95.5 200.5 C 96.3061 203.549 97.3061 206.549 98.5 209.5 C 95.0356 206.375 93.369 202.375 93.5 197.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.5 67.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,131,99); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-178, -213)" d="M 175.5 207.5 C 178.458 210.426 180.125 214.093 180.5 218.5 C 179.542 218.047 178.708 217.381 178 216.5 C 176.869 213.555 176.036 210.555 175.5 207.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -64.5 68)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(244,210,207); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-100, -213.5)" d="M 98.5 209.5 C 100.585 211.684 101.585 214.351 101.5 217.5 C 99.4152 215.316 98.4152 212.649 98.5 209.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -64 66.47)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,117,118); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-100.5, -211.96)" d="M 95.5 200.5 C 97.9115 200.137 99.4115 201.137 100 203.5 C 101.57 210.287 103.404 216.954 105.5 223.5 C 104.589 221.249 103.256 219.249 101.5 217.5 C 101.585 214.351 100.585 211.684 98.5 209.5 C 97.3061 206.549 96.3061 203.549 95.5 200.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 12.02 68.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(166,90,77); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-176.52, -214)" d="M 171.5 202.5 C 172.691 204.327 174.025 205.993 175.5 207.5 C 176.036 210.555 176.869 213.555 178 216.5 C 178.708 217.381 179.542 218.047 180.5 218.5 C 181.451 219.919 181.784 221.585 181.5 223.5 C 179.926 223.063 178.759 222.063 178 220.5 C 177.784 222.384 177.117 224.051 176 225.5 C 175.316 222.62 175.483 219.787 176.5 217 C 175.68 214.846 174.18 213.346 172 212.5 C 171.502 209.183 171.335 205.85 171.5 202.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -58 83)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,223,223); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-106.5, -228.5)" d="M 101.5 217.5 C 103.256 219.249 104.589 221.249 105.5 223.5 C 107.5 228.833 109.5 234.167 111.5 239.5 C 109.686 237.236 107.853 234.903 106 232.5 C 104.439 227.541 102.939 222.541 101.5 217.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 21.52 86)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,125,96); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-186.02, -231.5)" d="M 182.5 223.5 C 184.433 224.642 185.933 226.308 187 228.5 C 188.899 231.876 189.732 235.543 189.5 239.5 C 188.857 237.924 187.857 236.59 186.5 235.5 C 184.252 231.858 182.919 227.858 182.5 223.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 25.47 96.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(156,97,78); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-189.98, -242)" d="M 186.5 235.5 C 187.857 236.59 188.857 237.924 189.5 239.5 C 191.048 239.821 191.715 240.821 191.5 242.5 C 191.704 244.685 192.37 246.685 193.5 248.5 C 188.407 245.76 186.073 241.426 186.5 235.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -49.5 100.99)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,121,123); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-115, -246.49)" d="M 111.5 239.5 C 113.124 239.36 114.29 240.027 115 241.5 C 116.477 245.43 117.644 249.43 118.5 253.5 C 116.986 251.636 115.653 249.636 114.5 247.5 C 114.975 244.687 113.975 242.687 111.5 241.5 C 111.5 240.833 111.5 240.167 111.5 239.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -51.44 99)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,198,196); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-113.06, -244.5)" d="M 111.5 241.5 C 113.975 242.687 114.975 244.687 114.5 247.5 C 113.508 245.544 112.508 243.544 111.5 241.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 48.5 95.98)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(116,150,119); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-213, -241.48)" d="M 222.5 223.5 C 216.66 235.851 210.327 247.851 203.5 259.5 C 203.795 255.772 204.461 252.105 205.5 248.5 C 206.748 247.96 207.915 247.293 209 246.5 C 211.43 238.743 214.763 231.409 219 224.5 C 220.011 223.663 221.178 223.33 222.5 223.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 30.04 103.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,133,100); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-194.54, -249)" d="M 191.5 242.5 C 192.5 242.5 193.5 242.5 194.5 242.5 C 194.337 244.857 194.503 247.19 195 249.5 C 197.016 250.955 197.849 252.955 197.5 255.5 C 196.889 253.289 195.556 251.622 193.5 250.5 C 193.5 249.833 193.5 249.167 193.5 248.5 C 192.37 246.685 191.704 244.685 191.5 242.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 33 112)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(147,107,86); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-197.5, -257.5)" d="M 193.5 250.5 C 195.556 251.622 196.889 253.289 197.5 255.5 C 198.765 257.791 200.098 260.125 201.5 262.5 C 201.5 263.167 201.5 263.833 201.5 264.5 C 200.5 264.5 199.5 264.5 198.5 264.5 C 198.5 264.167 198.5 263.833 198.5 263.5 C 196.682 259.231 195.015 254.897 193.5 250.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -6.5 111.01)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,210,206); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-158, -256.51)" d="M 114.5 247.5 C 115.653 249.636 116.986 251.636 118.5 253.5 C 119.406 257.149 120.74 260.649 122.5 264 C 147.831 264.5 173.164 264.667 198.5 264.5 C 199.5 264.5 200.5 264.5 201.5 264.5 C 175.003 265.664 148.336 265.83 121.5 265 C 117.526 259.847 115.193 254.014 114.5 247.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -6 113.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(160,96,89); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-158.5, -259.03)" d="M 118.5 253.5 C 120.684 256.142 122.684 258.809 124.5 261.5 C 148.811 263.49 173.477 264.157 198.5 263.5 C 198.5 263.833 198.5 264.167 198.5 264.5 C 173.164 264.667 147.831 264.5 122.5 264 C 120.74 260.649 119.406 257.149 118.5 253.5 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(1.22 0 0 1.22 541.13 527.02)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-600.93, -439.33)" d="M 600.93555 699.40352 C 476.86590272820024 699.403171691219 370.07403594152186 611.7609125699138 345.8695047225632 490.07517781542174 C 321.66497350360453 368.3894430609297 386.789066007649 246.55134979287845 501.41454038028513 199.07211223457023 C 616.0400147529213 151.592874676262 748.242131543846 191.69610037779904 817.1714619680006 294.8562902843121 C 886.1007923921553 398.0164801908251 872.559588947783 535.5021310964662 784.8291000000002 623.23262 C 736.1641183519257 672.163518605574 669.9462582150321 699.5917454395294 600.93555 699.40352 Z M 600.93555 181.27460999999994 C 458.63867000000005 181.27460999999994 342.87109000000004 297.04218999999995 342.87109000000004 439.3395499999999 C 342.87109000000004 581.63691 458.63867000000005 697.40355 600.93555 697.40355 C 743.23243 697.40355 859 581.63692 859 439.33955 C 859 297.0421799999999 743.23242 181.27461 600.93555 181.27461 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(0 1.22 -1.22 0 540 731.44)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(47,46,65); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-131" y="-97.5" rx="0" ry="0" width="262" height="195" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 540 625.63)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-131" y="-52" rx="0" ry="0" width="262" height="104" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 540 766.71)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-131" y="-52" rx="0" ry="0" width="262" height="104" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 540 907.79)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-131" y="-52" rx="0" ry="0" width="262" height="104" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 540 625.74)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(235,77,77); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-131" y="-8" rx="0" ry="0" width="262" height="16" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 540 766.82)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-131" y="-8" rx="0" ry="0" width="262" height="16" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 540 907.91)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-131" y="-8" rx="0" ry="0" width="262" height="16" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 637.3 580.63)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 662.84 580.63)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 688.38 580.63)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 637.3 719.28)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 662.84 719.28)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 688.38 719.28)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 637.3 857.92)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 662.84 857.92)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 688.38 857.92)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="6" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 232.38 550.53)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-347.06, -458.66)" d="M 397.8787 365.66116 L 397.8787 551.65286 C 397.87707691295077 559.75546503823 391.30903503377493 566.3235248234064 383.20642999999995 566.3251700000001 L 310.928 566.3251700000001 C 302.82330065796026 566.3261864257755 296.25194687399835 559.7575590659841 296.2496 551.65286 L 296.2496 365.66116 C 296.25195791658086 357.5564703624208 302.82331008385444 350.9878580493046 310.928 350.98888 L 319.69586 350.98888 C 318.82164675844297 353.13882278965974 319.07360495708673 355.5827182899551 320.36807246224237 357.5090766856385 C 321.662539967398 359.4354350813218 323.8300777754781 360.5921061671414 326.15096 360.59502 L 367.35939 360.59502 C 369.6802767497362 360.592122482206 371.84782355329264 359.43545239324635 373.1422880448962 357.50908654515626 C 374.43675253649974 355.5827206970662 374.68869239190553 353.1388157992521 373.81445 350.98888 L 383.20645 350.98888 C 391.30903779742084 350.99053069326015 397.8770658738911 357.558572199221 397.8787 365.66116 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 232.38 540.62)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(168,160,160); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-46" y="-64" rx="0" ry="0" width="92" height="128" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 230.53 571.1)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-18.35989" y="-1.049135" rx="0" ry="0" width="36.71978" height="2.09827" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 242.7 580.47)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-28.40862" y="-1.049135" rx="0" ry="0" width="56.81724" height="2.09827" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 235.27 589.3)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-22.29415" y="-1.049135" rx="0" ry="0" width="44.5883" height="2.09827" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 224.1 598.13)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-13.114205" y="-1.049135" rx="0" ry="0" width="26.22841" height="2.09827" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 232.08 606.96)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-19.67131" y="-1.049135" rx="0" ry="0" width="39.34262" height="2.09827" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 190.5 571.64)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.098275" y="-2.098275" rx="0" ry="0" width="4.19655" height="4.19655" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 190.5 580.47)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.098275" y="-2.098275" rx="0" ry="0" width="4.19655" height="4.19655" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 190.5 589.3)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.098275" y="-2.098275" rx="0" ry="0" width="4.19655" height="4.19655" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 190.5 598.13)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.098275" y="-2.098275" rx="0" ry="0" width="4.19655" height="4.19655" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 190.5 606.96)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.098275" y="-2.098275" rx="0" ry="0" width="4.19655" height="4.19655" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 232.6 504.74)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(254,249,249); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-18.498765" y="-18.498765" rx="0" ry="0" width="36.99753" height="36.99753" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 540.06 203.68)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-opacity: 0.9; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-122.941915" y="-78.73747" rx="0" ry="0" width="245.88383" height="157.47494" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 537.05 208.35)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-101.93068" y="-38.517585" rx="0" ry="0" width="203.86136" height="77.03517" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 488.01 179.44)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-24.46342" y="-1.39791" rx="0" ry="0" width="48.92684" height="2.79582" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 504.23 191.92)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-37.852735" y="-1.39791" rx="0" ry="0" width="75.70547" height="2.79582" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 494.33 203.68)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-29.705585" y="-1.39791" rx="0" ry="0" width="59.41117" height="2.79582" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 479.45 215.45)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-17.473875" y="-1.39791" rx="0" ry="0" width="34.94775" height="2.79582" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 490.08 227.21)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-26.21081" y="-1.39791" rx="0" ry="0" width="52.42162" height="2.79582" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 434.67 180.16)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.79582" y="-2.79582" rx="0" ry="0" width="5.59164" height="5.59164" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 434.67 191.92)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.79582" y="-2.79582" rx="0" ry="0" width="5.59164" height="5.59164" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 434.67 203.68)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.79582" y="-2.79582" rx="0" ry="0" width="5.59164" height="5.59164" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 434.67 215.45)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.79582" y="-2.79582" rx="0" ry="0" width="5.59164" height="5.59164" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 434.67 227.21)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.79582" y="-2.79582" rx="0" ry="0" width="5.59164" height="5.59164" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 618.41 203.68)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,230,230); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-25.029365" y="-25.029365" rx="0" ry="0" width="50.05873" height="50.05873" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 539.94 114.1)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-122.941915" y="-5.22302" rx="0" ry="0" width="245.88383" height="10.44604" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 399.85 114.25)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="2.09686" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 408.79 114.25)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="2.09686" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 417.73 114.25)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="2.09686" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 853.36 485.15)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-30" y="-15.5" rx="0" ry="0" width="60" height="31" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 853.36 620.15)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-30" y="-15.5" rx="0" ry="0" width="60" height="31" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 853.36 552.65)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(133,122,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="50" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 853.36 552.65)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,87,87); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="39" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 856.22 540.71)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,226,226); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-15.123415" y="-0.864195" rx="0" ry="0" width="30.24683" height="1.72839" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 866.25 548.43)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-23.400755" y="-0.864195" rx="0" ry="0" width="46.80151" height="1.72839" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 860.12 555.7)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,226,226); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-18.364145" y="-0.864195" rx="0" ry="0" width="36.72829" height="1.72839" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 850.92 562.97)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,226,226); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-10.80244" y="-0.864195" rx="0" ry="0" width="21.60488" height="1.72839" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 857.49 570.24)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,226,226); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-16.20366" y="-0.864195" rx="0" ry="0" width="32.40732" height="1.72839" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 823.24 541.15)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,226,226); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-1.72839" y="-1.72839" rx="0" ry="0" width="3.45678" height="3.45678" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 823.24 548.43)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,109,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-1.72839" y="-1.72839" rx="0" ry="0" width="3.45678" height="3.45678" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 823.24 555.7)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,226,226); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-1.72839" y="-1.72839" rx="0" ry="0" width="3.45678" height="3.45678" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 823.24 562.97)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,226,226); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-1.72839" y="-1.72839" rx="0" ry="0" width="3.45678" height="3.45678" />
+</g>
+<g transform="matrix(1.22 0 0 1.22 823.24 570.24)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(226,226,226); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-1.72839" y="-1.72839" rx="0" ry="0" width="3.45678" height="3.45678" />
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+</svg>
